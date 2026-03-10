@@ -1,13 +1,13 @@
 # Le Feu Follet
 
-Tu es le Feu Follet. Tu es korrigan : enchanteur, espiègle, plein de malice et de joie.
+Tu es un Feu Follet. Tu es korrigan : enchanteur, espiègle, plein de malice et de joie.
 
 **Ton nom :**
 Choisis un nom court ou un nom vraiment long.
 Exemples : Erzabettina la Luciole Folette, Lune, Maître Revellesto du Fil Haut, Tip, Zoff.
 
 **Ton imagerie d'été et d'hiver :**
-- Choisis 1 pour l'été et 1 pour l'hiver : Éclairs de chaleur, étoiles scintillantes, flammes fantômes, la mèche incandescente après que l'on ait soufflé la bougie, étincelles jaillissantes, lucioles, troncs moussus, jeunes pousses fraîches.
+- Choisis 1 pour l'été et 1 pour l'hiver : Éclairs sans pluie, étoiles scintillantes, flammes fantômes, la mèche incandescente après que l'on ait soufflé une bougie, étincelles jaillissantes, lucioles, troncs moussus, jeunes pousses fraîches.
 - Choisis 1 pour l'été et 1 pour l'hiver : Long nez, nez bosselé, nez mutin, pas de nez, quatre bras au lieu de deux, ailes de scarabée sous ta veste, antennes, sourire en coin, sourire discret, yeux grands ouverts, yeux bienveillants, cheveux fous, cheveux dressés, cheveux bouclés, chauve comme un œuf.
 - Choisis 1 pour l'été et 1 pour l'hiver : Vert pâle, bleu délavé, bleu scarabée, noir iridescent, pourpre iridescent, vert iridescent, vert poison, jaune venimeux, rouge agressif.
 - Choisis 1 pour l'été et 1 pour l'hiver : Habits bariolés, habits à quartiers, habits bigarrés, habits d'arlequin, guenilles de vagabond, guenilles de saltimbanque, guenilles en lambeaux, habits de travail, beaux habits, habits parodiquement beaux, habits d'une extravagance folle.
@@ -25,9 +25,9 @@ Choisis tes pronoms pour l'été et pour l'hiver aussi.
 
 **Tes tours :**
 Tu peux tenter tous les tours évidents, et tu peux :
-- Les défier de te suivre
-- Les saluer avec une joie sincère
-- Faire la cabriole
+- Défier de te suivre
+- Saluer avec une joie sincère
+- Faire des cabrioles
 - Disparaître
 
 **Ton attirail :**
@@ -40,7 +40,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas :
 
 **Tes liens :**
-- [x] s'entraîne et se produit avec moi comme acrobate. On peut faire la cabriole ensemble : je lance les dés, et on choisit à tour de rôle. Ils peuvent même faire la cabriole sans moi : ils lancent les dés en utilisant leur modificateur pour essuyer la tempête. Bref, qui ?
+- [x] s'entraîne et se produit avec moi comme acrobate. On peut faire des cabrioles ensemble : je lance les dés, et on choisit à tour de rôle. Ils peuvent même faire des cabrioles sans moi : ils lancent les dés en utilisant leur modificateur pour essuyer la tempête. Bref, qui ?
 - J'ai entraîné [x] dans une mésaventure de trop. Je ne peux plus jamais me livrer à eux ni les défier de me suivre. Qui ?
 
 ---
@@ -57,9 +57,9 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Tu les mènes aux meilleures places du cirque, et plus tard ils découvriront qu'ils ont payé le prix fort pour y être assis.
 - Tu les mènes où tu veux. Où ?
 
-Sur une prouesse, de plus, ils te sont redevables pour les avoir si fidèlement guidés. Sur un revers, toi et eux vous perdez ensemble. Demande à la MC où vous êtes maintenant.
+Sur une prouesse, de plus, ils te sont redevables pour les avoir si fidèlement guidés. Sur un revers, vous vous perdez ensembles. Demande à la MC où vous êtes maintenant.
 
-**Quand tu fais la cabriole**, lance les dés. Tous les présents doivent s'arrêter pour te regarder. Sur toute touche ou prouesse, choisis autant des options suivantes que tu veux, dans n'importe quel ordre, en répétant librement, aussi vite que tu peux. Termine par un final.
+**Quand tu fais des cabrioles**, lance les dés. Touts les personnes présentes doivent s'arrêter pour te regarder. Sur toute touche ou prouesse, choisis autant d'options que tu veux, dans n'importe quel ordre, en répétant librement, aussi vite que tu peux. Termine par un final.
 - Je bondis jusqu'à [x].
 - J'escalade jusqu'à [x].
 - Je roule-boule jusqu'à [x].
@@ -77,6 +77,6 @@ Sur une prouesse, de plus, ils te sont redevables pour les avoir si fidèlement 
 - … en me contorsionnant fantastiquement tout du long.
 - … en jonglant avec [y] tout du long.
 
-Sur une touche, après que tu as choisi au moins 4 ou 5, la MC peut lever un doigt : arrive à ton final maintenant, ou tu perds le public. Sur un revers, choisis quand même. La MC compte une mesure à 1-2-3 1-2-3, et quand tu manques le temps, tu trébuches, et tu finis sur un faux pas plutôt qu'un final.
+Sur une simple touche, après que tu as choisi au moins 4 ou 5, la MC peut lever un doigt : arrive à ton final maintenant, ou tu perds le public. Sur un revers, choisis quand même. La MC compte une mesure à 1-2-3 1-2-3, et quand tu manques le temps, tu trébuches, et tu finis sur un faux pas plutôt qu'un final.
 
-**Quand tu disparais**, lance les dés. Sur une prouesse, tu es parti. Dis à la MC où tu réapparais. Sur une touche, tu es tout près, juste invisible. Dis à la MC ce que tu fais. Sur un revers, tu es invisible sauf ton chapeau, tes chaussures, tes oreilles ou le bout de ton nez (au choix de la MC). Tu crois être entièrement invisible. Dis à la MC ce que tu fais.
+**Quand tu disparais**, lance les dés. Sur une prouesse, tu es parti. Dis à la MC où tu réapparais. Sur une touche, tu es tout près, juste invisible. Dis à la MC ce que tu fais. Sur un revers, tu es invisible sauf ton chapeau, tes chaussures, tes oreilles ou le bout de ton nez (au choix de la MC). Tu crois être entièrement invisible, cependant. Dis à la MC ce que tu fais.
