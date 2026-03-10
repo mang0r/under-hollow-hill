@@ -35,7 +35,7 @@ Ce projet est un aide de jeu à destination de ma table. Il ne se substitue pas 
 
 ### Ressources de traduction
 
-- [Glossaire](glossaire.md)
+- 🔴 [Glossaire](glossaire.md)
 
 ## Avertissement légal
 
