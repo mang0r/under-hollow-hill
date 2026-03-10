@@ -27,7 +27,7 @@ Choisis tes pronoms pour le libre et pour le prudent aussi.
 
 **Tes tours :**
 Tu peux tenter tous les tours évidents, et tu peux :
-- Percer quelqu'un à jour
+- Percer à jour
 - En appeler à la loi de Féerie
 - Toucher avec du fer
 - Chanter l'été ou l'hiver

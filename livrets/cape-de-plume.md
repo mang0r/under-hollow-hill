@@ -24,7 +24,7 @@ Choisis tes pronoms pour l'été et pour l'hiver aussi.
 **Tes tours :**
 Tu peux tenter tous les tours évidents, et tu peux :
 - Les faire ciller
-- Leur servir du thé et des petits gâteaux
+- Servir du thé et des petits gâteaux
 - Te cacher
 - Guetter le bon moment
 

@@ -27,7 +27,7 @@ Choisis tes pronoms pour l'été et pour l'hiver aussi.
 Tu peux tenter tous les tours évidents, et tu peux :
 - Défier de te suivre
 - Saluer avec une joie sincère
-- Faire des cabrioles
+- Caracoler
 - Disparaître
 
 **Ton attirail :**
@@ -40,7 +40,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas :
 
 **Tes liens :**
-- [x] s'entraîne et se produit avec moi comme acrobate. On peut faire des cabrioles ensemble : je lance les dés, et on choisit à tour de rôle. Ils peuvent même faire des cabrioles sans moi : ils lancent les dés en utilisant leur modificateur pour essuyer la tempête. Bref, qui ?
+- [x] s'entraîne et se produit avec moi comme acrobate. On peut caracoler ensemble : je lance les dés, et on choisit à tour de rôle. Ils peuvent même caracoler sans moi : ils lancent les dés en utilisant leur modificateur pour essuyer la tempête. Bref, qui ?
 - J'ai entraîné [x] dans une mésaventure de trop. Je ne peux plus jamais me livrer à eux ni les défier de me suivre. Qui ?
 
 ---
@@ -59,7 +59,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 
 Sur une prouesse, de plus, ils te sont redevables pour les avoir si fidèlement guidés. Sur un revers, vous vous perdez ensembles. Demande à la MC où vous êtes maintenant.
 
-**Quand tu fais des cabrioles**, lance les dés. Touts les personnes présentes doivent s'arrêter pour te regarder. Sur toute touche ou prouesse, choisis autant d'options que tu veux, dans n'importe quel ordre, en répétant librement, aussi vite que tu peux. Termine par un final.
+**Quand tu caracoles**, lance les dés. Toutes les personnes présentes doivent s'arrêter pour te regarder. Sur toute touche ou prouesse, choisis autant d'options que tu veux, dans n'importe quel ordre, en répétant librement, aussi vite que tu peux. Termine par un final.
 - Je bondis jusqu'à [x].
 - J'escalade jusqu'à [x].
 - Je roule-boule jusqu'à [x].

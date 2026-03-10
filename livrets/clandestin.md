@@ -30,7 +30,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Te faire passer pour de la royauté incognito
 - Toucher avec du fer
 - Subtiliser quelque chose
-- Prendre tes jambes à son cou
+- Prendre tes jambes à ton cou
 
 **Ton attirail :**
 - Un coin dans une roulotte amie où tu peux rouler et dormir, roulé dans ta couverture. Tu n'as pas besoin de grand-chose.

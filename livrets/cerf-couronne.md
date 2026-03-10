@@ -27,9 +27,9 @@ Choisis tes pronoms pour l'été et pour l'hiver aussi.
 
 **Tes tours :**
 Tu peux tenter tous les tours évidents, et tu peux :
-- Entrecroiser vos regards
-- Se dresser devant eux majestueusement
-- S'enfoncer dans les bois
+- Croiser le regard
+- Te dresser majestueusement
+- T'enfoncer dans les bois
 - Convoquer ta cour
 
 **Ton attirail :**
@@ -48,7 +48,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 
 ## Tours du Cerf Couronné
 
-**Quand tu entrecroises ton regard avec celui de quelqu'un, et que c'est sincère**, lance les dés. Sur toute touche ou prouesse, ils doivent choisir : vous vous battez, ou vous tombez passionnément dans les bras l'un de l'autre. Sur une prouesse, ils peuvent choisir l'un maintenant, puis changer d'avis et choisir l'autre un peu plus tard, s'ils le souhaitent. Sur un revers, ils peuvent toujours choisir l'un s'ils le veulent, mais s'ils ne veulent ni l'un ni l'autre, ils peuvent sourire, grogner ou détourner le regard.
+**Quand vos regards se croisent, et que c'est sincère**, lance les dés. Sur toute touche ou prouesse, ils doivent choisir : vous vous battez, ou vous tombez passionnément dans les bras l'un de l'autre. Sur une prouesse, ils peuvent choisir l'un maintenant, puis changer d'avis et choisir l'autre un peu plus tard, s'ils le souhaitent. Sur un revers, ils peuvent toujours choisir l'un s'ils le veulent, mais s'ils ne veulent ni l'un ni l'autre, ils peuvent sourire, grogner ou détourner le regard.
 
 **Quand tu te dresses majestueusement devant quelqu'un**, lance les dés. Sur une prouesse, choisis 3. Sur une touche, choisis 2. S'il y a plus d'une personne présente, décide si tes choix s'appliquent à une seule, à quelques-unes ou à toutes.
 - Ils doivent s'arrêter et reculer d'un pas devant toi.

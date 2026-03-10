@@ -71,6 +71,3 @@ Sur un revers, choisis 1 quand même, mais tu leur es redevable.
 Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Tu as accueilli le danger entre tes bras,  prépares toi à en subir les conséquences.
 
 **Quand tu te réfugies derrière tes épines**, lance les dés. Sur toute touche ou prouesse, tout ennemi ou danger qui tente de t'atteindre est déchiré, blessé et consterné par l'enchevêtrement mortel d'épines qui te protège. Sur une prouesse, seuls trois ennemis ou plus agissant ensemble peuvent les surmonter, au prix de deux des leurs. Sur une touche, seuls deux ou plus le peuvent, au prix d'un des leurs. Sur un revers, tu es à l'abri des ennemis, mais tu es piégée derrière tes épines, et tu auras besoin d'un ami assez brave pour les affronter et t'attirer à découvert.
-
-
-claude --resume 3559c9d8-285c-400d-bd7a-5bccd0d63a7d                            

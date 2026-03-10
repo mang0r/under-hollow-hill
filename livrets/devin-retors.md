@@ -27,7 +27,7 @@ Choisis tes pronoms pour l'été et pour l'hiver aussi.
 Tu peux tenter tous les tours évidents, et tu peux :
 - Tromper leur regard
 - Disparaître dans la boue
-- Les mettre à nu
+- Mettre à nu
 - Jeter les osselets
 
 **Ton attirail :**
