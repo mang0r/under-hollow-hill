@@ -2,6 +2,8 @@
 
 ## Le cirque et la foire
 
+**Attirail :** Tout ce qu'on transporte avec soi, le bazar, le fourniment. De l'ancien français *atirier*, « arranger, équiper » (v. 1130), lui-même de *tire*, « ordre, rang », emprunté à l'ancien bas-francique. Au XVe siècle, « ensemble d'objets nécessaires à un usage » (surtout la guerre) ; au XVIIe, le sens se colore de familiarité et de désordre joyeux. Ce n'est pas un équipement, c'est un attirail — des choses hétéroclites, un peu magiques, un peu cabossées.
+
 **Voltigeur / Voltigeuse :** L'acrobate aérien, celui ou celle qui s'envole. De l'italien *volteggiare*, faire des voltes, lui-même de *voltare* (tourner). D'abord terme d'équitation (1534), puis d'acrobatie au trapèze (1736). Au cirque, le voltigeur travaille au fil ou au trapèze.
 
 **Bonimenteur :** Celui qui fait le boniment devant la baraque foraine — proclamant des merveilles, plaisantant avec les passants, attirant la clientèle. *Boniment* dérive de *bonnir* (dire, raconter), attesté en 1827 dans l'argot forain. Le boniment, moitié écrit et moitié improvisé, c'est le « baratin ».
@@ -70,15 +72,13 @@
 
 **Monsieur Loyal :** Artiste qui sert d'annonceur et de directeur des autres numéros ; la voix du cirque face au public.
 
-**Manœuvre :** Ouvrier qui fait tout le travail du cirque que personne d'autre ne fait.
-
-**Compère / Comparse :** Ouvrier ou artiste qui se fait passer pour un membre du public afin de cautionner ou d'aider à vendre les prétentions ou les marchandises d'un artiste.
+**Manœuvre :** Ouvrier qui fait tout le travail du cirque que personne d'autre ne fait. Du latin populaire *manuopera*, « travail fait avec la main » — attesté dès un capitulaire de Charlemagne (v. 800) au sens de corvée. Le mot est modeste et honnête.
 
 **Comédie de bâton :** Un numéro dont l'attrait principal est que les artistes se font violence de manière spectaculaire, comique et apparemment douloureuse. Les bâtons de comédie, d'ailleurs, sont des armes factices faites de deux lattes de bois qui claquent bruyamment ensemble quand on frappe quelqu'un, donnant l'impression qu'on lui a asséné un sacré coup.
 
 **Prodige :** Artiste qui fait quelque chose — ou simplement est quelque chose — de monumental, spectaculaire, démesuré ou bizarre.
 
-**Vedette :** Artiste qui a conquis la dévotion de la foule, au-delà des détails de son numéro.
+**Vedette :** Artiste qui a conquis la dévotion de la foule, au-delà des détails de son numéro. De l'italien *vedetta*, « poste de guet élevé » (1573), altération de *veletta* sous l'influence de *vedere* (voir). D'abord la sentinelle qui surveille, puis (1906) celui qu'on regarde : le mot est passé du militaire au spectacle.
 
 **Spectacle phare :** Un spectacle important autour duquel vous avez planifié votre tournée saisonnière. Ce peut être un spectacle que vous adorez et que vous jouez toujours, une occasion rare, ou une invitation royale à laquelle vous n'oseriez manquer.
 
@@ -110,9 +110,15 @@
 
 ## Affaires féeriques
 
-**Redevable :** Littéralement, tenu, lié. Un don ou une faveur crée un déséquilibre entre deux personnes qui lie l'un à l'autre. Tu dois rendre des comptes au donneur pour recouvrer ta liberté.
+**Féerie :** Le pays des fées. Pas *Faërie* (trop tolkienien), pas *le pays des fées* (trop enfantin). La Féerie, comme on dit « la folie » ou « la rêverie » — un état autant qu'un lieu. Le mot contient à la fois l'émerveillement et le danger.
 
-**Farfadet :** Un elfe, un gobelin, ou un esprit. Une peur imaginaire, un croque-mitaine. Étymologiquement apparenté à une merveilleuse famille de mots anglais, incluant *bugbear* (susmentionné), *bug* (comme un insecte ou comme embêter quelqu'un), *bogey* (comme le bonhomme ou un avion ennemi au radar), *buck* (comme désarçonner quelqu'un), et *Puck* (ce Puck-là). Sans rapport avec *bogart* (comme un joint), celui-là porte le nom d'un autre type.
+**Gente :** Terme ancien pour désigner une catégorie d'êtres. La *gente spectrale*, la *gente sylvestre*, la *gente des eaux*. Plus noble que « sorte » ou « espèce », le mot porte une courtoisie médiévale — on parle de « la gente dame », « la gente demoiselle ». Appliqué aux fées, il dit leur dignité tout en soulignant que ces catégories sont un jeu, jamais une vérité.
+
+**Semblance :** L'apparence, le paraître — ce qu'on montre aux autres. Français archaïque et littéraire, plus noble que « semblant ». Avec *forme* et *nature*, la semblance complète le trio qui décrit tout être : la nature est ce qu'on est ; la forme est ce qu'on est devenu ; la semblance est ce qu'on laisse voir. De ces trois, la semblance est la moins fiable.
+
+**Redevable :** Tenu, lié, en dette. Un don ou une faveur crée un déséquilibre qui lie une personne à l'autre. Chez les fées, cette dette est chose grave et concrète : tu dois rendre des comptes au donneur pour recouvrer ta liberté. L'hospitalité féerique n'est jamais gratuite.
+
+**Farfadet :** Esprit domestique espiègle du folklore français, cousin du *brownie* écossais et du *kobold* germanique. Le farfadet habite la maison ou le jardin, aide aux tâches ménagères quand il est content, cache les clés quand il ne l'est pas. L'étymologie est obscure — peut-être du provençal *fadet*, « enchanté, un peu fou », apparenté à *fada*. Traduit l'anglais *boggart*.
 
 **Sac-de-nœuds :** Un type de nœud carré ou de tresse, utilisé pour les nœuds d'arrêt, les poignées, les porte-clés et autres. Spécifiquement, le sac-de-nœuds ne se défait pas tout seul comme le tricot, le crochet ou certains ligaturages. D'où « un sac-de-nœuds » : un problème inextricable, un nœud qu'on ne peut pas dénouer.
 
@@ -126,7 +132,7 @@
 
 **Hob :** L'un des nombreux mots locaux pour fée, elfe ou gobelin, ou l'un des nombreux types locaux de fée, d'elfe ou de gobelin, selon votre préférence. J'ai lu quelque part que jusqu'à ce que Shakespeare popularise « fairies » avec *Le Songe d'une nuit d'été*, en anglais « elves » était le terme parapluie. Quoi qu'il en soit, un Hob est un gobelin du foyer, des champs ou de la campagne, dans le nord de l'Angleterre et les Borders écossais. C'est le « hob » de *hobgoblin* et de *Hobbit*. C'est aussi une forme raccourcie de Robert, donc en ce sens c'est comme le Jack de Jack O'Lantern, le Robin de Puck Robin, et le Will de *will-o'-the-wisp* (lui-même parfois appelé *hobby-lantern*).
 
-**Korrigan :** Plus communément orthographié *pixie*, mais *pisky* est aussi correct. Un mot local ou un type local de fée, espiègle, malicieux, enchanté par les ennuis, empressé d'égarer. *Pisky-led* signifie perdu.
+**Korrigan :** Lutin breton, espiègle, égareur, malicieux. Traduit l'anglais *pisky* (pixie). Le korrigan hante les landes et les fontaines, égare les voyageurs, danse au clair de lune. Du breton *korr* (nain) et *ig* (diminutif) : le petit des petits. *Pisky-led* en anglais, c'est « mené par les korrigans » : perdu, désorienté, envoûté par les petites gens.
 
 **Cœur secret :** Nous pouvons supposer que tous les êtres ont leur nature, entière et unique (quoique changeante) ; leur moi, qui peut se conformer ou non à leur nature ; et leur conscience de soi, qui est la moins fiable de toutes. Si nous supposons alors quelque magie de révélation, les arts d'une diseuse de bonne aventure, nous pouvons imaginer que la révélation la moins profonde est de révéler la conception que quelqu'un a de soi, puis son moi, et la plus profonde est de révéler sa nature, son « cœur secret ». C'est ainsi que le jeu le conçoit.
 
