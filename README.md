@@ -4,32 +4,34 @@ Traduction amateur et non officielle de *Under Hollow Hills*, un jeu de rôle de
 
 Ce projet est un aide de jeu à destination de ma table. Il ne se substitue pas au jeu original — **[achetez-le ici](http://lumpley.com)**.
 
-## Contenu
+## Avancement
+
+🟢 Terminé · 🟠 En cours · 🔴 À faire
 
 ### Règles
 
-- [Introduction](introduction.md)
-- [Personnages](personnages.md)
-- [Sessions et spectacles](sessions-et-spectacles.md)
-- [Tours et conséquences](tours-et-consequences.md)
-- [Tours évidents](tours-evidents.md)
-- [Miscellanées](miscellanees.md)
+- 🟢 [Introduction](introduction.md)
+- 🟢 [Personnages](personnages.md)
+- 🔴 [Sessions et spectacles](sessions-et-spectacles.md)
+- 🔴 [Tours et conséquences](tours-et-consequences.md)
+- 🟢 [Tours évidents](tours-evidents.md)
+- 🔴 [Miscellanées](miscellanees.md)
 
 ### Livrets de personnage
 
-- [Cape-de-plume](livrets/cape-de-plume.md)
-- [Cavale noire](livrets/cavale-noire.md)
-- [Cerf couronné](livrets/cerf-couronne.md)
-- [Clandestin](livrets/clandestin.md)
-- [Devin retors](livrets/devin-retors.md)
-- [Égaré](livrets/egare.md)
-- [Églantine](livrets/eglantine.md)
-- [Feu follet](livrets/feu-follet.md)
-- [Gob sac-de-nœuds](livrets/gob-sac-de-noeuds.md)
-- [Pantin](livrets/pantin.md)
-- [Quêteur](livrets/queteur.md)
-- [Souris du clan](livrets/souris-du-clan.md)
-- [Troll](livrets/troll.md)
+- 🟢 [Cape-de-plume](livrets/cape-de-plume.md)
+- 🟢 [Cavale noire](livrets/cavale-noire.md)
+- 🟢 [Cerf couronné](livrets/cerf-couronne.md)
+- 🟢 [Clandestin](livrets/clandestin.md)
+- 🟢 [Devin retors](livrets/devin-retors.md)
+- 🟢 [Égaré](livrets/egare.md)
+- 🟠 [Églantine](livrets/eglantine.md)
+- 🟠 [Feu follet](livrets/feu-follet.md)
+- 🟠 [Gob sac-de-nœuds](livrets/gob-sac-de-noeuds.md)
+- 🟠 [Pantin](livrets/pantin.md)
+- 🟠 [Quêteur](livrets/queteur.md)
+- 🟠 [Souris du clan](livrets/souris-du-clan.md)
+- 🟠 [Troll](livrets/troll.md)
 
 ### Ressources de traduction
 
