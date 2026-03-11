@@ -3,7 +3,7 @@
 Tu es la Souris du Clan. Tu es de la gente souris : valeureuse, honorable, romanesque et loyale.
 
 **Ton nom :**
-Choisis un nom de souris, et assure-toi d'en choisir un digne d'une souris de distinction.
+Choisis un nom de souris, et assure-toi d'en choisir un digne d'une souris d'exception.
 Exemples : Trèfle l'Intrépide, Ézéchiel le Mortel, Anatole le Bon, Rubis la Féroce.
 
 **Ton imagerie d'été et d'hiver :**
@@ -17,8 +17,10 @@ Tu peux en choisir 2 de temps en temps — pourquoi pas ?
 Choisis tes pronoms pour l'été et pour l'hiver aussi.
 
 **Ta place :**
-- Monsieur Loyal ; Régisseur
-- Bonimenteur et crieur ; Contremaître
+- Monsieur Loyal
+- Régisseur
+- Bonimenteur et crieur
+- Contremaître
 - Toujours là avec une observation.
 
 **Tes tours :**
@@ -47,7 +49,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 
 **Quand tu t'adresses à quelqu'un courtoisement**, lance les dés. Sur toute touche ou prouesse, ils doivent te répondre courtoisement en retour, quelles que soient leurs intentions ou leur animosité à ton égard. Sur une prouesse, de plus, ils doivent s'adresser courtoisement à tout le monde tant que tu es présent. Sur un revers, bien qu'ils doivent néanmoins te répondre avec courtoisie, ils peuvent, s'ils le souhaitent, te répondre avec une courtoisie tranchante et sarcastique que tu peux considérer comme une insulte, ou qui pourrait même te blesser.
 
-**Quand tu sièges en conseil avec quelqu'un**, lance les dés. Sur toute touche ou prouesse, écoute-les, prête l'oreille, et pose des questions pour mieux comprendre. Quand tu es prêt, dis-leur honnêtement quel est selon toi le meilleur tour à tenter. S'ils le tentent, ils le lancent à +3. Sur une touche cependant, s'ils suivent ton conseil, ils te sont redevables, et s'ils refusent de le suivre, tu peux le prendre comme une insulte. Sur un revers, donne-leur un mauvais conseil irréfléchi, et s'ils refusent de le suivre, tu peux le prendre comme une insulte.
+**Quand tu sièges en conseil avec quelqu'un**, lance les dés. Sur toute touche ou prouesse, écoute-les, prête l'oreille, et pose des questions pour mieux comprendre. Quand tu es prêt, dis-leur honnêtement quel est selon toi le meilleur tour à tenter. S'ils le tentent, ils le lancent à +3. Sur une simple touche cependant, s'ils suivent ton conseil, ils te sont redevables, et s'ils refusent de le suivre, tu peux le prendre comme une insulte. Sur un revers, donne-leur un mauvais conseil irréfléchi, et s'ils refusent de le suivre, tu peux le prendre comme une insulte.
 
 **Quand tu cherches les petits animaux sauvages**, lance les dés. Sur toute touche ou prouesse, pose des questions ; la MC doit y répondre sincèrement. Sur une prouesse, poses-en 3. Sur une touche, poses-en 2.
 - Quelles nouvelles des petits oiseaux sauvages ?
@@ -71,11 +73,9 @@ Sur un revers, en cherchant les petites bêtes sauvages, tu es tombé sur un cha
 - Les Clans au Grand Complet, par milliers et par milliers.
 
 Sur toute touche ou prouesse, ils répondent à ton appel sur-le-champ. Sur une touche cependant, ou sur toute touche ou prouesse si tu convoques les Clans au Grand Complet, la MC choisit une complication qui les accompagne :
-- Leurs mères et/ou leurs pères.
+- Leurs mères et leurs pères.
 - Le chef d'un clan rival qui conteste ton autorité.
 - Des souris renégates qui ne reconnaissent aucun clan.
 - Une panthère.
 
-Sur un revers, ils ne répondent pas à ton appel, ou pas en entier, ou pas tout de suite, et la MC choisit une complication pour expliquer pourquoi.
-
-claude --resume 3559c9d8-285c-400d-bd7a-5bccd0d63a7d                                                                                                                                    
+Sur un revers, ils ne répondent pas à ton appel, ou pas en entier, ou pas tout de suite, et la MC choisit une complication pour expliquer pourquoi.                                                                                                                                    
