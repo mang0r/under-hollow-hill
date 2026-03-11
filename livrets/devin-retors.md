@@ -35,7 +35,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Une arme ancienne, plus intéressante qu'elle n'en a l'air.
 - L'armure de bronze antique, confiée à ta garde — mais tu as oublié par et pour qui.
 - Des livres d'écorce de bouleau écrits avec des mots dérobés à la création du monde.
-- Un dé à coudre d'or scintillant. Frappe quelqu'un d'un petit coup sec avec ce dé et tu le transformes en oiseau, forme dans laquelle il restera jusqu'à ce que tu le libères ou qu'il chante la bonne chanson ; ou en plante en pot, et il restera sous cette forme jusqu'à ce que tu le libères ou qu'il fleurisse ; ou en œuf de poule, et sous cette forme il reste jusqu'à ce que quelqu'un en brise la coquille ou qu'il éclose de lui-même.
+- Un dé à coudre d'or scintillant. Frappe quelqu'un d'un petit coup sec de ce dé et tu le transformes en oiseau, forme dans laquelle il restera jusqu'à ce que tu le libères ou qu'il chante la bonne chanson ; ou en plante en pot, et il restera sous cette forme jusqu'à ce que tu le libères ou qu'il fleurisse ; ou en œuf de poule, et sous cette forme il reste jusqu'à ce que quelqu'un en brise la coquille ou qu'il éclose de lui-même.
 - Un chat agaçant.
 - Une braise ardente qui ne refroidira jamais.
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
