@@ -1,10 +1,10 @@
 # Le Troll
 
-Tu es le Troll. Tu es de la gente des trolls de pierre : puissant, sans dignité, dangereux et patient.
+Tu es le Troll. Tu es de la gente des trolls de pierre : puissant, sans manières, dangereux et patient.
 
 **Ton nom :**
 Choisis un nom courant ou démodé et une image macabre ou comique, et relie-les ensemble.
-Exemples : Annie Bouille-d'Os, Isabella la Crapaud, Pol le Chauve Bouilli, Richard Parapluie.
+Exemples : Annie Bouille-d'Os, Isabella la Crapaud, Pol le Chauve, Richard Parapluie.
 
 **Ton imagerie d'été et d'hiver :**
 - Choisis 1 pour l'été et 1 pour l'hiver : Souche, arbre abattu, roc saillant, un ruisseau gelé, un surplomb puant, porc-épic, ours, morse, sanglier.
@@ -19,28 +19,29 @@ Choisis tes pronoms pour l'été et pour l'hiver aussi.
 **Ta place :**
 - Artiste
 - Spectacle
+- Ouvrier
+- Débrouillard
 - Toujours là pour donner un coup de main.
-- Ouvrier ; Débrouillard
 
 **Tes tours :**
 Tu peux tenter tous les tours évidents, et tu peux :
-- Les briser
-- Se tapir
-- Les dominer de toute ta hauteur
+- Briser
+- Te tapir
+- Dominer de toute ta hauteur
 - Fouiller les restes
 
 **Ton attirail :**
-- Une charrette joyeuse et colorée avec un toit, tirée par un gros vieux bouc en colère.
+- Une charrette joyeuse avec un toit coloré, tirée par un gros vieux bouc en colère.
 - Un marteau de pierre aussi vieux que le monde vivant.
 - Un heaume fait pour quelqu'un dont la tête était plus petite que la tienne.
 - Autant de petits oiseaux chanteurs qu'il en faut, perchés sur tes épaules, qui mangent des graines dans tes doigts.
 - Un arc tordu et des flèches pleines d'échardes, avec lesquels tu ne rates jamais.
 - Une bouteille de verre dans laquelle est emprisonné le vent d'hiver.
-- Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas :
+- Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- Un jour, dans une rage, j'ai empoigné [x] et je les ai lancés si haut dans les airs qu'ils ont failli se cogner la tête contre la lune. Je ne peux plus jamais me livrer à eux ni les attirer à découvert. Qui ?
-- [x] m'a un jour battu à qui mangerait, boirait, chanterait, travaillerait ou péterait le plus. (Ils ont triché, mais je ne le sais pas.) Je ne peux jamais les briser ni les dominer de toute ma hauteur. Qui ?
+- Un jour, dans une rage, j'ai empoigné [x] et je l'ai lancés si haut dans les airs qu'il a failli se cogner la tête contre la lune. Je ne peux plus jamais me livrer à lui ni l'attirer à découvert. Qui ?
+- [x] m'a un jour battu à qui mangerait, boirait, chanterait, travaillerait ou péterait le plus. (Il a triché, mais je ne le sais pas.) Je ne peux jamais le brise ni le dominer de toute ma hauteur. Qui ?
 
 ---
 
