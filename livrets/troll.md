@@ -40,8 +40,8 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- Un jour, dans une rage, j'ai empoigné [x] et je l'ai lancé si haut dans les airs qu'iel a failli se cogner la tête contre la lune. Je ne peux plus jamais me livrer à iel ni l'attirer à découvert. Qui ?
-- [x] m'a un jour battu à qui mangerait, boirait, chanterait, travaillerait ou péterait le plus. (Iel a triché, mais je ne le sais pas.) Je ne peux jamais le brise ni le dominer de toute ma hauteur. Qui ?
+- Un jour, dans une rage, j'ai empoigné [x] et je l'ai lancé si haut dans les airs qu'il a failli se cogner la tête contre la lune. Je ne peux plus jamais me livrer à lui ni l'attirer à découvert. Qui ?
+- [x] m'a un jour battu à qui mangerait, boirait, chanterait, travaillerait ou péterait le plus. (Il a triché, mais je ne le sais pas.) Je ne peux jamais le brise ni le dominer de toute ma hauteur. Qui ?
 
 ---
 
@@ -53,7 +53,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Tu les enfonces de tes propres mains dans la terre.
 - Tu les terrorises si complètement que tu les changes en quelque chose de doux et de timide, peut-être oui une vache, peut-être une taupe, un lapin, une petite caille peureuse, un poisson aux gros yeux effrayés qui halète.
 
-Sur une touche, tu ne fais que les blesser, les écraser et les consterner en profondeur. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu découvriras qu'iel a, après tout, un noyau de force indestructible.
+Sur une touche, tu ne fais que les blesser, les écraser et les consterner en profondeur. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu découvriras qu'il a, après tout, un noyau de force indestructible.
 
 **Quand tu domines quelqu'un de toute ta hauteur**, lance les dés. Sur toute touche ou prouesse, choisis 1 :
 - Aucun mal ni danger ne peut les atteindre, sauf à travers toi.
@@ -63,4 +63,4 @@ Sur une prouesse, tu les domines tellement que tu es libre d'agir sans risque de
 
 **Quand tu te tapis**, lance les dés. Sur toute touche ou prouesse, tu peux encaisser tous les coups qui te sont portés. Sur une prouesse, encaisses-en jusqu'à 3 solides avant de subir les conséquences du suivant. Sur une touche, encaisses-en jusqu'à 2. Sur un revers, tu deviens en partie de pierre, et bien que tu puisses encaisser autant de coups qu'il en vient, tu auras besoin d'un ami pour t'attirer à découvert.
 
-**Quand tu fouilles les restes**, lance les dés. Sur toute touche ou prouesse, tu trouves quelque chose d'intéressant. Demande à la MC ce que c'est. Sur une prouesse, c'est un trésor. Sur une touche, c'est un indice, une curiosité, ou quelque chose qui est encore parfaitement délicieux — tu ne sais pas pourquoi iel n'a pas fini. Sur un revers, tu perds quelque chose qui t'appartient. Dis à la MC de décider quoi, et de te prévenir quand tu remarques que ça manque.
+**Quand tu fouilles les restes**, lance les dés. Sur toute touche ou prouesse, tu trouves quelque chose d'intéressant. Demande à la MC ce que c'est. Sur une prouesse, c'est un trésor. Sur une touche, c'est un indice, une curiosité, ou quelque chose qui est encore parfaitement délicieux — tu ne sais pas pourquoi il n'a pas fini. Sur un revers, tu perds quelque chose qui t'appartient. Dis à la MC de décider quoi, et de te prévenir quand tu remarques que ça manque.
