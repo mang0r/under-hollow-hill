@@ -37,7 +37,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Des vêtements indubitablement humains : fourrure et cuir, que les fées utilisent rarement ; un grand manteau de toile cirée, car les fées se soucient rarement de la pluie.
 - Un signe de ce que les fées t'ont volé. Examine-le et il t'indiquera le chemin. Tu l'as suivi jusqu'en Féerie et jusqu'au cirque, et maintenant tu continues de le suivre.
 - Un couteau de fer froid. Aucune fée ne peut en supporter le contact.
-- Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas :
+- Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
 - [x] m'a accueilli à mon arrivée en Féerie et a reconnu la justice de ma cause. Je ne peux jamais les éconduire, les assaillir ni les toucher avec du fer. Qui ?
