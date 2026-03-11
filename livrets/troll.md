@@ -48,18 +48,18 @@ Tu peux tenter tous les tours évidents, et tu peux :
 ## Tours du Troll
 
 **Quand tu brises quelqu'un**, lance les dés. Sur une prouesse, choisis 1 :
-- Tu les brises en morceaux de tes propres mains.
-- Tu les jettes de tes propres mains hors de ce monde et dans un autre.
-- Tu les enfonces de tes propres mains dans la terre.
-- Tu les terrorises si complètement que tu les changes en quelque chose de doux et de timide, peut-être oui une vache, peut-être une taupe, un lapin, une petite caille peureuse, un poisson aux gros yeux effrayés qui halète.
+- Tu le brises en morceaux de tes propres mains.
+- Tu le jettes de tes propres mains hors de ce monde et dans un autre.
+- Tu l'enfonces de tes propres mains dans la terre.
+- Tu le terrorises si complètement que tu le changes en quelque chose de doux et de timide, peut-être oui une vache, peut-être une taupe, un lapin, une petite caille peureuse, un poisson aux gros yeux effrayés qui halète.
 
-Sur une touche, tu ne fais que les blesser, les écraser et les consterner en profondeur. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu découvriras qu'il a, après tout, un noyau de force indestructible.
+Sur une touche, tu ne fais que le blesser, l'écraser et le consterner en profondeur. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu découvriras qu'il a, après tout, un noyau de force indestructible.
 
 **Quand tu domines quelqu'un de toute ta hauteur**, lance les dés. Sur toute touche ou prouesse, choisis 1 :
-- Aucun mal ni danger ne peut les atteindre, sauf à travers toi.
-- Aucun ami ni allié ne peut venir à leur aide, sauf à travers toi.
+- Aucun mal ni danger ne peut l'atteindre, sauf à travers toi.
+- Aucun ami ni allié ne peut venir à son aide, sauf à travers toi.
 
-Sur une prouesse, tu les domines tellement que tu es libre d'agir sans risque de les perdre ou de les laisser sans garde. Sur une touche, tu dois garder un œil sur eux quoi que tu fasses, et tu prends −1 à tous tes lancers tant que tu les domines. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu rates quelque chose que tu aurais dû voir.
+Sur une prouesse, tu le domines tellement que tu es libre d'agir sans risque de le perdre ou de le laisser sans garde. Sur une touche, tu dois garder un œil sur lui quoi que tu fasses, et tu prends −1 à tous tes lancers tant que tu le domines. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu rates quelque chose que tu aurais dû voir.
 
 **Quand tu te tapis**, lance les dés. Sur toute touche ou prouesse, tu peux encaisser tous les coups qui te sont portés. Sur une prouesse, encaisses-en jusqu'à 3 solides avant de subir les conséquences du suivant. Sur une touche, encaisses-en jusqu'à 2. Sur un revers, tu deviens en partie de pierre, et bien que tu puisses encaisser autant de coups qu'il en vient, tu auras besoin d'un ami pour t'attirer à découvert.
 
