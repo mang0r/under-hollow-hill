@@ -40,7 +40,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- Un jour, dans une rage, j'ai empoigné [x] et je l'ai lancés si haut dans les airs qu'il a failli se cogner la tête contre la lune. Je ne peux plus jamais me livrer à lui ni l'attirer à découvert. Qui ?
+- Un jour, dans une rage, j'ai empoigné [x] et je l'ai lancé si haut dans les airs qu'il a failli se cogner la tête contre la lune. Je ne peux plus jamais me livrer à lui ni l'attirer à découvert. Qui ?
 - [x] m'a un jour battu à qui mangerait, boirait, chanterait, travaillerait ou péterait le plus. (Il a triché, mais je ne le sais pas.) Je ne peux jamais le brise ni le dominer de toute ma hauteur. Qui ?
 
 ---
@@ -48,19 +48,19 @@ Tu peux tenter tous les tours évidents, et tu peux :
 ## Tours du Troll
 
 **Quand tu brises quelqu'un**, lance les dés. Sur une prouesse, choisis 1 :
-- Tu les brises en morceaux de tes propres mains.
-- Tu les jettes de tes propres mains hors de ce monde et dans un autre.
-- Tu les enfonces de tes propres mains dans la terre.
-- Tu les terrorises si complètement que tu les changes en quelque chose de doux et de timide, peut-être oui une vache, peut-être une taupe, un lapin, une petite caille peureuse, un poisson aux gros yeux effrayés qui halète.
+- Tu le brises en morceaux de tes propres mains.
+- Tu le jettes de tes propres mains hors de ce monde et dans un autre.
+- Tu l'enfonces de tes propres mains dans la terre.
+- Tu le terrorises si complètement que tu le changes en quelque chose de doux et de timide, peut-être oui une vache, peut-être une taupe, un lapin, une petite caille peureuse, un poisson aux gros yeux effrayés qui halète.
 
-Sur une touche, tu ne fais que les blesser, les écraser et les consterner en profondeur. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu découvriras qu'ils ont, après tout, un noyau de force indestructible.
+Sur une touche, tu ne fais que le blesser, l'écraser et le consterner en profondeur. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu découvriras qu'il a, après tout, un noyau de force indestructible.
 
 **Quand tu domines quelqu'un de toute ta hauteur**, lance les dés. Sur toute touche ou prouesse, choisis 1 :
-- Aucun mal ni danger ne peut les atteindre, sauf à travers toi.
-- Aucun ami ni allié ne peut venir à leur aide, sauf à travers toi.
+- Aucun mal ni danger ne peut l'atteindre, sauf à travers toi.
+- Aucun ami ni allié ne peut venir à son aide, sauf à travers toi.
 
-Sur une prouesse, tu les domines tellement que tu es libre d'agir sans risque de les perdre ou de les laisser sans garde. Sur une touche, tu dois garder un œil sur eux quoi que tu fasses, et tu prends −1 à tous tes lancers tant que tu les domines. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu rates quelque chose que tu aurais dû voir.
+Sur une prouesse, tu le domines tellement que tu es libre d'agir sans risque de le perdre ou de le laisser sans garde. Sur une touche, tu dois garder un œil sur lui quoi que tu fasses, et tu prends −1 à tous tes lancers tant que tu le domines. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu rates quelque chose que tu aurais dû voir.
 
 **Quand tu te tapis**, lance les dés. Sur toute touche ou prouesse, tu peux encaisser tous les coups qui te sont portés. Sur une prouesse, encaisses-en jusqu'à 3 solides avant de subir les conséquences du suivant. Sur une touche, encaisses-en jusqu'à 2. Sur un revers, tu deviens en partie de pierre, et bien que tu puisses encaisser autant de coups qu'il en vient, tu auras besoin d'un ami pour t'attirer à découvert.
 
-**Quand tu fouilles les restes**, lance les dés. Sur toute touche ou prouesse, tu trouves quelque chose d'intéressant. Demande à la MC ce que c'est. Sur une prouesse, c'est un trésor. Sur une touche, c'est un indice, une curiosité, ou quelque chose qui est encore parfaitement délicieux — tu ne sais pas pourquoi ils n'ont pas fini. Sur un revers, tu perds quelque chose qui t'appartient. Dis à la MC de décider quoi, et de te prévenir quand tu remarques que ça manque.
+**Quand tu fouilles les restes**, lance les dés. Sur toute touche ou prouesse, tu trouves quelque chose d'intéressant. Demande à la MC ce que c'est. Sur une prouesse, c'est un trésor. Sur une touche, c'est un indice, une curiosité, ou quelque chose qui est encore parfaitement délicieux — tu ne sais pas pourquoi il n'a pas fini. Sur un revers, tu perds quelque chose qui t'appartient. Dis à la MC de décider quoi, et de te prévenir quand tu remarques que ça manque.
