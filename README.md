@@ -2,7 +2,7 @@
 
 Traduction amateur et non officielle de *Under Hollow Hills*, un jeu de rôle de **Meguey Baker** et **D. Vincent Baker** ([lumpley games](http://lumpley.com)).
 
-Ce projet est un aide de jeu à destination de ma table. Il ne se substitue pas au jeu original — **[achetez-le ici](http://lumpley.com)**.
+Ce projet est un aide de jeu à destination de ma table. Il ne se substitue pas au jeu original — **[achetez-le ici](https://lumpley.games/under-hollow-hills/)**.
 
 ## Avancement
 
