@@ -29,8 +29,8 @@ Ce projet est un aide de jeu à destination de ma table. Il ne se substitue pas 
 - 🟢 [Feu follet](livrets/feu-follet.md)
 - 🟢 [Gob sac-de-nœuds](livrets/gob-sac-de-noeuds.md)
 - 🟢 [Pantin](livrets/pantin.md)
-- 🟠 [Quêteur](livrets/queteur.md)
-- 🟠 [Souris du clan](livrets/souris-du-clan.md)
+- 🟢 [Quêteur](livrets/queteur.md)
+- 🟢 [Souris du clan](livrets/souris-du-clan.md)
 - 🟠 [Troll](livrets/troll.md)
 
 ### Ressources de traduction
