@@ -40,16 +40,16 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- [x], bien que n'étant pas souris, m'a juré allégeance. Je ne peux jamais leur mentir ni refuser de siéger en conseil avec eux. Qui ?
-- [x] a, par le passé, rendu un service digne de mémoire aux Clans Souris. Je ne peux jamais les éconduire ni les assaillir. Qui ?
+- [x], bien que n'étant pas souris, m'a juré allégeance. Je ne peux jamais lui mentir ni refuser de siéger en conseil avec lui. Qui ?
+- [x] a, par le passé, rendu un service digne de mémoire aux Clans Souris. Je ne peux jamais l'éconduire ni l'assaillir. Qui ?
 
 ---
 
 ## Tours de la Souris du Clan
 
-**Quand tu t'adresses à quelqu'un courtoisement**, lance les dés. Sur toute touche ou prouesse, ils doivent te répondre courtoisement en retour, quelles que soient leurs intentions ou leur animosité à ton égard. Sur une prouesse, de plus, ils doivent s'adresser courtoisement à tout le monde tant que tu es présent. Sur un revers, bien qu'ils doivent néanmoins te répondre avec courtoisie, ils peuvent, s'ils le souhaitent, te répondre avec une courtoisie tranchante et sarcastique que tu peux considérer comme une insulte, ou qui pourrait même te blesser.
+**Quand tu t'adresses à quelqu'un courtoisement**, lance les dés. Sur toute touche ou prouesse, il doit te répondre courtoisement en retour, quelles que soient ses intentions ou son animosité à ton égard. Sur une prouesse, de plus, il doit s'adresser courtoisement à tout le monde tant que tu es présent. Sur un revers, bien qu'il doive néanmoins te répondre avec courtoisie, il peut, s'il le souhaite, te répondre avec une courtoisie tranchante et sarcastique que tu peux considérer comme une insulte, ou qui pourrait même te blesser.
 
-**Quand tu sièges en conseil avec quelqu'un**, lance les dés. Sur toute touche ou prouesse, écoute-les, prête l'oreille, et pose des questions pour mieux comprendre. Quand tu es prêt, dis-leur honnêtement quel est selon toi le meilleur tour à tenter. S'ils le tentent, ils le lancent à +3. Sur une simple touche cependant, s'ils suivent ton conseil, ils te sont redevables, et s'ils refusent de le suivre, tu peux le prendre comme une insulte. Sur un revers, donne-leur un mauvais conseil irréfléchi, et s'ils refusent de le suivre, tu peux le prendre comme une insulte.
+**Quand tu sièges en conseil avec quelqu'un**, lance les dés. Sur toute touche ou prouesse, écoute-le, prête l'oreille, et pose des questions pour mieux comprendre. Quand tu es prêt, dis-lui honnêtement quel est selon toi le meilleur tour à tenter. S'il le tente, il le lance à +3. Sur une simple touche cependant, s'il suit ton conseil, il t'est redevable, et s'il refuse de le suivre, tu peux le prendre comme une insulte. Sur un revers, donne-lui un mauvais conseil irréfléchi, et s'il refuse de le suivre, tu peux le prendre comme une insulte.
 
 **Quand tu cherches les petits animaux sauvages**, lance les dés. Sur toute touche ou prouesse, pose des questions ; la MC doit y répondre sincèrement. Sur une prouesse, poses-en 3. Sur une touche, poses-en 2.
 - Quelles nouvelles des petits oiseaux sauvages ?
@@ -78,4 +78,4 @@ Sur toute touche ou prouesse, ils répondent à ton appel sur-le-champ. Sur une 
 - Des souris renégates qui ne reconnaissent aucun clan.
 - Une panthère.
 
-Sur un revers, ils ne répondent pas à ton appel, ou pas en entier, ou pas tout de suite, et la MC choisit une complication pour expliquer pourquoi.                                                                                                                                    
+Sur un revers, ils ne répondent pas à ton appel, ou pas en entier, ou pas tout de suite, et la MC choisit une complication pour expliquer pourquoi.

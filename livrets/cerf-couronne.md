@@ -41,14 +41,14 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas :
 
 **Tes liens :**
-- [x] et moi flânons à l'occasion et nous sommes à l'aise en la compagnie l'un de l'autre. Si je les confronte, les éconduis, les assaille ou me dresse devant eux majestueusement, ils peuvent le considérer comme une insulte. Qui ?
-- J'ai traité les sentiments de [x] avec trop de légèreté par le passé. Je ne peux plus jamais me livrer à eux, et si je entrecroise nos regards, je leur deviens redevable, quoi qu'ils choisissent. Qui ?
+- [x] et moi flânons à l'occasion et nous sommes à l'aise en la compagnie l'un de l'autre. Si je le confronte, l'éconduis, l'assaille ou me dresse devant lui majestueusement, il peut le considérer comme une insulte. Qui ?
+- J'ai traité les sentiments de [x] avec trop de légèreté par le passé. Je ne peux plus jamais m'ouvrir à lui, et si nos regards se croisent, je lui deviens redevable, quoi qu'il choisisse. Qui ?
 
 ---
 
 ## Tours du Cerf Couronné
 
-**Quand vos regards se croisent, et que c'est sincère**, lance les dés. Sur toute touche ou prouesse, ils doivent choisir : vous vous battez, ou vous tombez passionnément dans les bras l'un de l'autre. Sur une prouesse, ils peuvent choisir l'un maintenant, puis changer d'avis et choisir l'autre un peu plus tard, s'ils le souhaitent. Sur un revers, ils peuvent toujours choisir l'un s'ils le veulent, mais s'ils ne veulent ni l'un ni l'autre, ils peuvent sourire, grogner ou détourner le regard.
+**Quand vos regards se croisent, et que c'est sincère**, lance les dés. Sur toute touche ou prouesse, il doit choisir : vous vous battez, ou vous tombez passionnément dans les bras l'un de l'autre. Sur une prouesse, il peut choisir l'un maintenant, puis changer d'avis et choisir l'autre un peu plus tard, s'il le souhaite. Sur un revers, il peut toujours choisir l'un s'il le veut, mais s'il ne veut ni l'un ni l'autre, il peut sourire, grogner ou détourner le regard.
 
 **Quand tu te dresses majestueusement devant quelqu'un**, lance les dés. Sur une prouesse, choisis 3. Sur une touche, choisis 2. S'il y a plus d'une personne présente, décide si tes choix s'appliquent à une seule, à quelques-unes ou à toutes.
 - Ils doivent s'arrêter et reculer d'un pas devant toi.

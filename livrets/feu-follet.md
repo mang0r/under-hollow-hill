@@ -40,24 +40,24 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas :
 
 **Tes liens :**
-- [x] s'entraîne et se produit avec moi comme acrobate. On peut caracoler ensemble : je lance les dés, et on choisit à tour de rôle. Ils peuvent même caracoler sans moi : ils lancent les dés en utilisant leur modificateur pour essuyer la tempête. Bref, qui ?
-- J'ai entraîné [x] dans une mésaventure de trop. Je ne peux plus jamais me livrer à eux ni les défier de me suivre. Qui ?
+- [x] s'entraîne et se produit avec moi comme acrobate. On peut caracoler ensemble : je lance les dés, et on choisit à tour de rôle. Il peut même caracoler sans moi : il lance les dés en utilisant son modificateur pour essuyer la tempête. Bref, qui ?
+- J'ai entraîné [x] dans une mésaventure de trop. Je ne peux plus jamais m'ouvrir à lui ni le défier de me suivre. Qui ?
 
 ---
 
 ## Tours du Feu Follet
 
-**Quand tu salues quelqu'un avec une joie sincère**, lance les dés. Sur une prouesse, toute rancune, tout grief ou toute affaire en suspens entre vous disparaît, pour de bon. Sur une touche, ils choisissent : laisser les affaires en suspens disparaître, comme sur une prouesse, ou s'y accrocher. Mais s'ils s'y accrochent et les ressortent plus tard, ils t'insultent. Sur un revers, c'est toi qui les insultes en faisant comme s'il n'y avait aucune affaire en suspens entre vous.
+**Quand tu salues quelqu'un avec une joie sincère**, lance les dés. Sur une prouesse, toute rancune, tout grief ou toute affaire en suspens entre vous disparaît, pour de bon. Sur une touche, il choisit : laisser les affaires en suspens disparaître, comme sur une prouesse, ou s'y accrocher. Mais s'il s'y accroche et les ressort plus tard, il t'insulte. Sur un revers, c'est toi qui l'insultes en faisant comme s'il n'y avait aucune affaire en suspens entre vous.
 
 **Quand tu défies quelqu'un de te suivre**, s'il accepte, lance les dés. Sur toute touche ou prouesse, choisis 1.
-- Demande-leur où leur (choisis 1) cupidité, leur désir ou leur ambition les mènerait. Tu connais un chemin secret pour y aller, et tu les y conduis sans encombre.
-- Demande-leur où leur (choisis 1) cœur, leurs rêves ou leur destinée les mènerait. Tu connais un chemin secret pour y aller, et tu les y conduis sans encombre.
-- Tu les mènes à un trésor merveilleux. Demande à la MC quoi et où.
-- Tu les mènes dans un lieu sans repères et tu les abandonnes enfoncés jusqu'aux genoux dans une eau boueuse et glacée.
-- Tu les mènes aux meilleures places du cirque, et plus tard ils découvriront qu'ils ont payé le prix fort pour y être assis.
-- Tu les mènes où tu veux. Où ?
+- Demande-lui où sa (choisis 1) cupidité, son désir ou son ambition le mènerait. Tu connais un chemin secret pour y aller, et tu l'y conduis sans encombre.
+- Demande-lui où son (choisis 1) cœur, ses rêves ou sa destinée le mènerait. Tu connais un chemin secret pour y aller, et tu l'y conduis sans encombre.
+- Tu le mènes à un trésor merveilleux. Demande à la MC quoi et où.
+- Tu le mènes dans un lieu sans repères et tu l'abandonnes enfoncé jusqu'aux genoux dans une eau boueuse et glacée.
+- Tu le mènes aux meilleures places du cirque, et plus tard il découvrira qu'il a payé le prix fort pour y être assis.
+- Tu le mènes où tu veux. Où ?
 
-Sur une prouesse, de plus, ils te sont redevables pour les avoir si fidèlement guidés. Sur un revers, vous vous perdez ensembles. Demande à la MC où vous êtes maintenant.
+Sur une prouesse, de plus, il t'est redevable pour l'avoir si fidèlement guidé. Sur un revers, vous vous perdez ensemble. Demande à la MC où vous êtes maintenant.
 
 **Quand tu caracoles**, lance les dés. Toutes les personnes présentes doivent s'arrêter pour te regarder. Sur toute touche ou prouesse, choisis autant d'options que tu veux, dans n'importe quel ordre, en répétant librement, aussi vite que tu peux. Termine par un final.
 - Je bondis jusqu'à [x].

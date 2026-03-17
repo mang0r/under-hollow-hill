@@ -39,16 +39,16 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- [x] sait d'où je viens ou qui m'a fabriqué, mais refuse de me le dire. Si je leur lâche tout ce que je crois avoir compris, si je m'exprime en cabrioles et pitreries devant eux, ou si je choisis une option qui les affecte quand je me mets à l'ouvrage, ils peuvent librement m'ignorer, quels que soient mon lancer et mes choix. Qui ?
-- J'ai pris [x] pour modèle, je les suis partout et j'essaie d'imiter leur style et leur aplomb. Je ne peux jamais les confronter ni les assaillir. [Note : tu peux changer de modèle chaque fois que tu fais un pas vers l'été ou l'hiver.] Qui ?
+- [x] sait d'où je viens ou qui m'a fabriqué, mais refuse de me le dire. Si je lui lâche tout ce que je crois avoir compris, si je m'exprime en cabrioles et pitreries devant lui, ou si je choisis une option qui l'affecte quand je me mets à l'ouvrage, il peut librement m'ignorer, quels que soient mon lancer et mes choix. Qui ?
+- J'ai pris [x] pour modèle, je le suis partout et j'essaie d'imiter son style et son aplomb. Je ne peux jamais le confronter ni l'assaillir. [Note : tu peux changer de modèle chaque fois que tu fais un pas vers l'été ou l'hiver.] Qui ?
 
 ---
 
 ## Tours du Pantin
 
-**Quand tu lâches à quelqu'un tout ce que tu crois avoir compris**, lance les dés. Sur une prouesse, s'ils en savent plus, ils doivent te révéler où tu as raison et où tu as tort, soit en répondant franchement, soit en le trahissant par leur langage corporel, leurs gestes involontaires et leurs tics. Sur une touche, ils doivent seulement te révéler si tu as raison ou tort, ou globalement raison ou globalement tort. Sur un revers, ils peuvent quand même choisir de te révéler si tu as raison ou tort, mais si c'est le cas, tu leur es redevable. Ils peuvent aussi décider que tu les as insultés en étant trop direct, trop vulgaire, trop indiscret, trop juste ou trop à côté de la plaque.
+**Quand tu lâches à quelqu'un tout ce que tu crois avoir compris**, lance les dés. Sur une prouesse, s'il en sait plus, il doit te révéler où tu as raison et où tu as tort, soit en répondant franchement, soit en le trahissant par son langage corporel, ses gestes involontaires et ses tics. Sur une touche, il doit seulement te révéler si tu as raison ou tort, ou globalement raison ou globalement tort. Sur un revers, il peut quand même choisir de te révéler si tu as raison ou tort, mais si c'est le cas, tu lui es redevable. Il peut aussi décider que tu l'as insulté en étant trop direct, trop vulgaire, trop indiscret, trop juste ou trop à côté de la plaque.
 
-**Quand tu t'exprimes en cabrioles et pitreries devant quelqu'un**, lance les dés. Tu peux faire des choses impossibles avec tes articulations et tes divers morceaux, et tu captives leur attention. Sur une prouesse, choisis 2. Sur une touche, choisis 1. Sur toute touche ou prouesse, décris brièvement tes pitreries, et…
+**Quand tu t'exprimes en cabrioles et pitreries devant quelqu'un**, lance les dés. Tu peux faire des choses impossibles avec tes articulations et tes divers morceaux, et tu captives son attention. Sur une prouesse, choisis 2. Sur une touche, choisis 1. Sur toute touche ou prouesse, décris brièvement tes pitreries, et…
 - C'est étonnamment beau.
 - C'est étonnamment poignant.
 - C'est étonnamment triste.
@@ -74,7 +74,7 @@ Demande à la MC et/ou aux autres joueurs comment ils réagissent. Sur un revers
 - Tu hurles et beugle.
 - Tu craques et tu t'enfuis.
 
-Sur toute touche ou prouesse, aucun ennemi ni aucune circonstance ne peut te faire pire. Attends que ça passe et ressaisis-toi. Sur un revers, choisis 3, et certaines des autres choses se produisent aussi, tu ne sais pas lesquelles. Tu ne peux pas te remettre tout seul, tu auras besoin d'un ami pour t'attirer à découvert et t'aider à ramasser les morceaux.
+Sur toute touche ou prouesse, aucun ennemi ni aucune circonstance ne peut te faire pire. Attends que ça passe et ressaisis-toi. Sur un revers, choisis 3, et certaines des autres choses se produisent aussi, tu ne sais pas lesquelles. Tu ne peux pas te remettre tout seul, tu auras besoin d'un ami pour trouver ton ouverture et t'aider à ramasser les morceaux.
 
 **Quand tu te mets à l'ouvrage**, lance les dés. Sur une prouesse, choisis 2. Sur une touche, choisis 1.
 - Peu importe la durée et la difficulté du travail, tu ne te fatigues jamais.
@@ -84,4 +84,4 @@ Sur toute touche ou prouesse, aucun ennemi ni aucune circonstance ne peut te fai
 - Ton travail est si méticuleux et si soigné que, bien qu'il sera parfait, tu ne le finiras jamais, pas même en cent ans.
 - Peu importe qui d'autre s'y met, tu travailles plus vite, mieux et plus joyeusement qu'eux.
 
-Sur un revers, choisis 1, et de plus, tu ne peux pas t'arrêter de travailler même une fois le travail fini. Pour t'arrêter, tu auras besoin d'un ami qui t'attire à découvert.
+Sur un revers, choisis 1, et de plus, tu ne peux pas t'arrêter de travailler même une fois le travail fini. Pour t'arrêter, tu auras besoin d'un ami qui trouve ton ouverture.

@@ -41,8 +41,8 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- [x] se retrouve constamment dans mes mauvaises grâces, et sans le mériter. Chaque session, je dois trouver une raison de les confronter, si j'en ai l'occasion. Qui ?
-- Je me suis pris d'une sympathie absolument inexplicable pour [x]. Chaque session, je dois les attirer à découvert, dans la mesure du possible. Qui ?
+- [x] se retrouve constamment dans mes mauvaises grâces, et sans le mériter. Chaque session, je dois trouver une raison de le confronter, si j'en ai l'occasion. Qui ?
+- Je me suis pris d'une sympathie absolument inexplicable pour [x]. Chaque session, je dois trouver son ouverture, dans la mesure du possible. Qui ?
 
 ---
 
@@ -58,7 +58,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 
 …Et pendant ce temps, sur toute touche ou prouesse, quiconque peut regarder tes tours ne peut prêter attention à rien d'autre. Sur un revers, demande à la MC ce qui tourne mal. Elle te laissera peut-être choisir 1 option quand même, mais prépare-toi au pire. Peut-être que tu te trahis.
 
-**Quand tu provoques quelqu'un**, lance les dés. Sur toute touche ou prouesse, dis quelque chose de doux, d'inoffensif, d'anodin, d'innocent — et ils doivent absolument le prendre pour une insulte terrible. Sur une prouesse, de plus, sans s'en rendre compte, ils ont pris une arme en main. Sur un revers, dis quelque chose qu'ils ont raison de considérer comme une insulte terrible, et si rien ne te vient, considère que ce sont eux qui t'ont insulté.
+**Quand tu provoques quelqu'un**, lance les dés. Sur toute touche ou prouesse, dis quelque chose de doux, d'inoffensif, d'anodin, d'innocent — et il doit absolument le prendre pour une insulte terrible. Sur une prouesse, de plus, sans s'en rendre compte, il a pris une arme en main. Sur un revers, dis quelque chose qu'il a raison de considérer comme une insulte terrible, et si rien ne te vient, considère que c'est lui qui t'a insulté.
 
 **Quand tu te changes en autre chose**, lance les dés. Sur toute touche ou prouesse, tu deviens, au choix :
 - Un gros et vieux corbeau croassant.
@@ -71,4 +71,4 @@ Tu peux tenter tous les tours évidents, et tu peux :
 
 Tu restes ainsi transformé aussi longtemps que tu le souhaites. Sur une prouesse, tu peux ensuite disparaître dans le néant et réapparaître plus tard. Sur une touche, à la fin de ta transformation, tu dois reprendre ta forme — nu comme un ver. Sur un revers, au lieu de te transformer, tu vas pleinement vers l'hiver.
 
-**Quand tu encaisses nonchalamment les blessures et les outrages**, lance les dés. Sur toute touche ou prouesse, tu es indemne et impassible, sans avoir à choisir la moindre réaction. Sur une prouesse, tu ne considères même pas leur attaque comme une insulte ; sur une touche, tu pourrais la considérer ainsi. Sur un revers, ton agresseur choisit comment tu dois réagir.
+**Quand tu encaisses nonchalamment les blessures et les outrages**, lance les dés. Sur toute touche ou prouesse, tu es indemne et impassible, sans avoir à choisir la moindre réaction. Sur une prouesse, tu ne considères même pas son attaque comme une insulte ; sur une touche, tu pourrais la considérer ainsi. Sur un revers, ton agresseur choisit comment tu dois réagir.

@@ -27,7 +27,7 @@ Choisis tes pronoms pour le libre et pour le prudent aussi.
 
 **Tes tours :**
 Tu peux tenter tous les tours évidents, et tu peux :
-- Déclarer le tort que l'on t'a fait
+- Déclamer tout le tort que l'on t'a fait
 - T'en remettre au destin
 - Les toucher avec du fer
 - Te dédier à une tâche ou une entreprise
@@ -40,23 +40,23 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- [x] m'a accueilli à mon arrivée en Féerie et a reconnu la justice de ma cause. Je ne peux jamais les éconduire, les assaillir ni les toucher avec du fer. Qui ?
-- [x] est la personne la plus incroyablement belle que j'aie jamais vue, et elle me fait rougir et bafouiller. Je ne peux jamais les confronter ni les jauger. Qui ?
+- [x] m'a accueilli à mon arrivée en Féerie et a reconnu la justice de ma cause. Je ne peux jamais l'éconduire, l'assaillir ni le toucher avec du fer. Qui ?
+- [x] est la personne la plus incroyablement belle que j'aie jamais vue, et elle me fait rougir et bafouiller. Je ne peux jamais le confronter ni le jauger. Qui ?
 
 ---
 
 ## Tours du Quêteur
 
-**Quand tu déclares à quelqu'un le tort que l'on t'a fait**, lance les dés. Sur toute touche ou prouesse, ils doivent s'arrêter et t'écouter. Sur une touche, ils sont émus par l'injustice que tu as subie, et peuvent, s'ils le choisissent, se considérer comme insultés en ton nom. Sur une prouesse, ils le doivent. Sur un revers, peut-être qu'ils t'écoutent, mais ils n'y sont pas obligés, et ils y sont indifférents : si les fées t'ont volé quelque chose, eh bien, c'est probablement parce qu'elles le voulaient pour une raison ou une autre.
+**Quand tu déclames tout le tort que l'on t'a fait**, lance les dés. Sur toute touche ou prouesse, il doit s'arrêter et t'écouter. Sur une touche, il est ému par l'injustice que tu as subie, et peut, s'il le choisit, se considérer comme insulté en ton nom. Sur une prouesse, il le doit. Sur un revers, peut-être qu'il t'écoute, mais il n'y est pas obligé, et il y est indifférent : si les fées t'ont volé quelque chose, eh bien, c'est probablement parce qu'elles le voulaient pour une raison ou une autre.
 
 Si tu n'as pas encore décidé ce que les fées t'ont volé, décide-le avant de tenter ce tour.
 
 **Quand tu touches une fée avec du fer froid**, lance les dés. Sur toute touche ou prouesse, choisis 1. Si la fée que tu touches est le personnage d'un autre joueur, c'est lui qui choisit, pas toi.
-- Ils te promettront tout ce que tu demandes pour être libérés du contact du fer. Que leur fais-tu promettre ?
-- Ils ont si véritablement peur de toi qu'ils abandonnent immédiatement et sincèrement leurs intérêts et leurs préoccupations, s'enfuient, et ne s'approchent plus jamais de toi.
-- Tu presses le fer contre eux cruellement et ils en meurent. Les autres fées, ne comprenant pas qu'il s'agit d'une mort véritable, les attendront peut-être un jour, mais ils ne reviendront jamais.
+- Il te promettra tout ce que tu demandes pour être libéré du contact du fer. Que lui fais-tu promettre ?
+- Il a si véritablement peur de toi qu'il abandonne immédiatement et sincèrement ses intérêts et ses préoccupations, s'enfuit, et ne s'approche plus jamais de toi.
+- Tu presses le fer contre lui cruellement et il en meurt. Les autres fées, ne comprenant pas qu'il s'agit d'une mort véritable, l'attendront peut-être un jour, mais il ne reviendra jamais.
 
-Sur une prouesse, tu peux les garder silencieux pendant tout cela. Sur une touche, tous ceux qui se trouvent à proximité comprennent que quelque chose ne va pas, et peuvent agir pour enquêter ou se défendre. Sur un revers, demande à la MC ce qui tourne mal. Tu t'es introduit sans vergogne en Féerie et tu as menacé une fée de mort véritable — les conséquences pourraient être sévères.
+Sur une prouesse, tu peux le garder silencieux pendant tout cela. Sur une touche, tous ceux qui se trouvent à proximité comprennent que quelque chose ne va pas, et peuvent agir pour enquêter ou se défendre. Sur un revers, demande à la MC ce qui tourne mal. Tu t'es introduit sans vergogne en Féerie et tu as menacé une fée de mort véritable — les conséquences pourraient être sévères.
 
 Toucher un autre mortel avec du fer n'a aucune conséquence.
 

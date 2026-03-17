@@ -41,29 +41,29 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- J'ai un jour changé [x] en petit oiseau, je l'ai mis en cage, et j'ai laissé mon chat le fixer de ses yeux jaunes et prédateurs. Je ne peux plus jamais les assaillir ni tromper leur regard. Qui ?
-- [x] m'a un jour révélé l'amour et le désir véritable de son cœur. Je ne peux jamais les éconduire. Qui ?
+- J'ai un jour changé [x] en petit oiseau, je l'ai mis en cage, et j'ai laissé mon chat le fixer de ses yeux jaunes et prédateurs. Je ne peux plus jamais l'assaillir ni tromper son regard. Qui ?
+- [x] m'a un jour révélé l'amour et le désir véritable de son cœur. Je ne peux jamais l'éconduire. Qui ?
 
 ---
 
 ## Tours du Devin Retors
 
-**Quand tu trompes le regard de quelqu'un**, lance les dés. Sur toute touche ou prouesse, tu leur voles un ou plusieurs de leurs sens. Sur une prouesse, choisis 2. Sur une touche, choisis 1.
-- Ils ne remarquent pas ce que [x] est en train de faire.
-- Ils oublient [x].
-- Ils se sentent en sécurité, à l'abri de tout danger.
-- Ils se sentent perdus, désorientés, privés de toute certitude.
-- Dis-leur quelque chose. Ils le croient sans réserve, tant que leur regard est trompé.
+**Quand tu trompes le regard de quelqu'un**, lance les dés. Sur toute touche ou prouesse, tu lui voles un ou plusieurs de ses sens. Sur une prouesse, choisis 2. Sur une touche, choisis 1.
+- Il ne remarque pas ce que [x] est en train de faire.
+- Il oublie [x].
+- Il se sent en sécurité, à l'abri de tout danger.
+- Il se sent perdu, désorienté, privé de toute certitude.
+- Dis-lui quelque chose. Il le croit sans réserve, tant que son regard est trompé.
 
-Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être qu'en leur cachant certaines choses, tu éveilles leur attention à d'autres.
+Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être qu'en lui cachant certaines choses, tu éveilles son attention à d'autres.
 
-**Quand tu mets quelqu'un à nu**, lance les dés. Sur toute touche ou prouesse, tu leur révèles quelque chose à propos d'eux-mêmes. Sur une prouesse, choisis 2. Sur une touche, choisis 1.
-- Tu leur révèles leur cœur secret.
-- Tu leur révèles le cœur et la nature de ceux de leur proches.
-- Tu leur révèles la meilleure voie à suivre.
-- Tu leur révèles leur passé oublié.
+**Quand tu mets quelqu'un à nu**, lance les dés. Sur toute touche ou prouesse, tu lui révèles quelque chose à propos de lui-même. Sur une prouesse, choisis 2. Sur une touche, choisis 1.
+- Tu lui révèles son cœur secret.
+- Tu lui révèles le cœur et la nature de ses proches.
+- Tu lui révèles la meilleure voie à suivre.
+- Tu lui révèles son passé oublié.
 
-Quel que soit ton choix, tu ne sais pas ce qu'ils apprennent, mais demande-leur comment ils réagissent à la révélation. Cependant, si tu as un miroir, un bassin ou un oracle à consulter, tu peux capter une ombre ou un reflet de leur révélation. Demande-leur ce que tu vois.
+Quel que soit ton choix, tu ne sais pas ce qu'il apprend, mais demande-lui comment il réagit à la révélation. Cependant, si tu as un miroir, un bassin ou un oracle à consulter, tu peux capter une ombre ou un reflet de sa révélation. Demande-lui ce que tu vois.
 
 Sur un revers, choisis 1 quand même, mais ce faisant, tu te mets à nu toi aussi. La MC choisit 1 contre toi, et te demande comment tu réagis à ton tour.
 

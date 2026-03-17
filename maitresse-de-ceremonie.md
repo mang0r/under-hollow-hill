@@ -54,7 +54,7 @@ Tu peux jouer directement avec les règles, les dés et les systèmes du jeu :
 - Quand un joueur essuie un revers, fais-lui prendre le résultat 7-9 au lieu du revers, mais aussi faire un pas vers l'hiver.
 
 Ces tours sont souvent particulièrement appropriés quand quelqu'un essuie un revers, mais tu peux les jouer quand tu veux ou quand tu en as besoin.
-« Tip, tu te rends compte qu'au lieu de l'attirer à découvert, c'est lui qui te fait parler, et tu en révèles de plus en plus. Il retourne ton tour contre toi. Voyons voir : en quoi es-tu ouvert à lui, en quoi es-tu vulnérable, et en quoi es-tu sur tes gardes ? » « Lièvre-des-Haies, vu ton humeur, la prochaine fois que tu assailles quelqu'un, prends +1 au lancer. » « En fait Jill, prends le résultat 7-9, mais fais aussi un pas vers prudent. »
+« Tip, tu te rends compte qu'au lieu de trouver son ouverture, c'est lui qui te fait parler, et tu en révèles de plus en plus. Il retourne ton tour contre toi. Voyons voir : en quoi es-tu ouvert à lui, en quoi es-tu vulnérable, et en quoi es-tu sur tes gardes ? » « Lièvre-des-Haies, vu ton humeur, la prochaine fois que tu assailles quelqu'un, prends +1 au lancer. » « En fait Jill, prends le résultat 7-9, mais fais aussi un pas vers prudent. »
 
 **Dire où :**
 Chaque fois que quelque chose se passe ou que quelqu'un fait quoi que ce soit, commence toujours par dire où ça se passe.

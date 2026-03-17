@@ -40,23 +40,23 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- [x] sait ce que je suis, mais garde le secret pour ses propres raisons. Je ne peux jamais les confronter ni me faire passer pour de la royauté incognito auprès d'eux. Qui ?
-- [x] est mon ami sincère, bien qu'il ignore ce que je suis. Je ne peux jamais les éconduire, et si jamais je les touche avec du fer, ils doivent choisir d'en mourir. Qui ?
+- [x] sait ce que je suis, mais garde le secret pour ses propres raisons. Je ne peux jamais le confronter ni me faire passer pour de la royauté incognito auprès de lui. Qui ?
+- [x] est mon ami sincère, bien qu'il ignore ce que je suis. Je ne peux jamais l'éconduire, et si jamais je le touche avec du fer, il doit choisir d'en mourir. Qui ?
 
 ---
 
 ## Tours du Clandestin
 
-**Quand tu te fais passer auprès d'une fée pour de la royauté incognito**, lance les dés. Sur toute touche ou prouesse, ils doivent te traiter avec déférence. Sur une touche, ils peuvent en jaser ensuite, mais sur une prouesse, ils ne peuvent même pas faire cela. Sur un revers, peut-être qu'ils te traitent avec déférence comme sur une touche, ou peut-être qu'ils te jurent secrètement allégeance et deviennent ton plus loyal serviteur incognito, et peut-être que tu ne sauras jamais lequel.
+**Quand tu te fais passer auprès d'une fée pour de la royauté incognito**, lance les dés. Sur toute touche ou prouesse, il doit te traiter avec déférence. Sur une touche, il peut en jaser ensuite, mais sur une prouesse, il ne peut même pas faire cela. Sur un revers, peut-être qu'il te traite avec déférence comme sur une touche, ou peut-être qu'il te jure secrètement allégeance et devient ton plus loyal serviteur incognito, et peut-être que tu ne sauras jamais lequel.
 
 Tu peux aussi te faire passer auprès d'autres mortels. Puisqu'ils ne sont pas aussi naturellement liés par la loi de Féerie, ils peuvent choisir de se comporter comme des fées, selon ton lancer, mais ils peuvent aussi te regarder d'un air sceptique en se demandant ce que tu es et qui tu es vraiment.
 
 **Quand tu touches une fée avec du fer froid**, lance les dés. Sur toute touche ou prouesse, choisis 1. Si la fée que tu touches est le personnage d'un autre joueur, c'est lui qui choisit, pas toi.
-- Ils te promettront tout ce que tu demandes pour être libérés du contact du fer. Que leur fais-tu promettre ?
-- Ils ont si profondément peur de toi qu'ils abandonnent immédiatement et sincèrement leurs intérêts et leurs préoccupations, s'enfuient, et ne s'approchent plus jamais de toi.
-- Tu presses le fer contre eux cruellement et ils en meurent. Les autres fées, ne comprenant pas qu'il s'agit d'une mort véritable, elles les attendront peut-être un jour, mais ils ne reviendront jamais.
+- Il te promettra tout ce que tu demandes pour être libéré du contact du fer. Que lui fais-tu promettre ?
+- Il a si profondément peur de toi qu'il abandonne immédiatement et sincèrement ses intérêts et ses préoccupations, s'enfuit, et ne s'approche plus jamais de toi.
+- Tu presses le fer contre lui cruellement et il en meurt. Les autres fées, ne comprenant pas qu'il s'agit d'une mort véritable, l'attendront peut-être un jour, mais il ne reviendra jamais.
 
-Sur une prouesse, tu peux les garder silencieux pendant tout cela. Sur une touche, tous ceux qui se trouvent à proximité comprennent que quelque chose ne va pas, et peuvent agir pour enquêter ou se défendre. Sur un revers, demande à la MC ce qui tourne mal. Tu t'es introduit sans invitation en Féerie et tu as menacé une fée de mort véritable — les conséquences pourraient être sévères.
+Sur une prouesse, tu peux le garder silencieux pendant tout cela. Sur une touche, tous ceux qui se trouvent à proximité comprennent que quelque chose ne va pas, et peuvent agir pour enquêter ou se défendre. Sur un revers, demande à la MC ce qui tourne mal. Tu t'es introduit sans invitation en Féerie et tu as menacé une fée de mort véritable — les conséquences pourraient être sévères.
 
 Toucher un autre mortel avec du fer n'a aucune conséquence.
 

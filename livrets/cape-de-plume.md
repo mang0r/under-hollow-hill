@@ -37,31 +37,31 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- J'ai un jour battu [x] dans un défi. Je ne peux plus jamais les attirer à découvert. Qui ?
-- [x] m'a abrité en un temps de grand danger. Je ne peux jamais les éconduire ni me cacher d'eux. Qui ?
+- J'ai un jour battu [x] dans un défi. Je ne peux plus jamais trouver son ouverture. Qui ?
+- [x] m'a abrité en un temps de grand danger. Je ne peux jamais l'éconduire ni me cacher de lui. Qui ?
 
 ---
 
 ## Tours de la Cape-de-Plume
 
 **Quand tu fais ciller quelqu'un**, lance les dés. Sur toute touche ou prouesse, choisis 1.
-- Ils te croyaient à un endroit, mais non, tu es ailleurs.
-- Ils se croyaient prêts, mais non, tu les as pris au dépourvu.
-- Ils croyaient faire attention, mais non, leur attention s'est dissipée.
-- Ils croyaient tenir quelque chose bien en main, mais non, cela leur a échappé.
-- L'espace d'un instant, ils ont cru voir quelque chose de saisissant, et ça les laisse incertains. Quoi ?
-- Tu fais vraiment quelque chose, ou ils voient vraiment quelque chose de saisissant, et ça les laisse stupéfaits. Quoi ?
+- Il te croyait à un endroit, mais non, tu es ailleurs.
+- Il se croyait prêt, mais non, tu l'as pris au dépourvu.
+- Il croyait faire attention, mais non, son attention s'est dissipée.
+- Il croyait tenir quelque chose bien en main, mais non, cela lui a échappé.
+- L'espace d'un instant, il a cru voir quelque chose de saisissant, et ça le laisse incertain. Quoi ?
+- Tu fais vraiment quelque chose, ou il voit vraiment quelque chose de saisissant, et ça le laisse stupéfait. Quoi ?
 
-Sur une prouesse, quelle que soit la manière dont tu décides de jouer ensuite, prends +1 à ton lancer. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être qu'ils t'avaient percé à jour depuis le début.
+Sur une prouesse, quelle que soit la manière dont tu décides de jouer ensuite, prends +1 à ton lancer. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être qu'il t'avait percé à jour depuis le début.
 
-**Quand tu sers à quelqu'un du thé et des petits gâteaux**, lance les dés. Ta magie peut les aider à changer leur destin. Sur toute touche ou prouesse, ils peuvent, s'ils le souhaitent, devenir invisibles jusqu'au prochain coucher des astres, soleil ou lune. Sur une prouesse, choisis 1 des options suivantes qu'ils peuvent aussi recevoir, s'ils le souhaitent.
+**Quand tu sers à quelqu'un du thé et des petits gâteaux**, lance les dés. Ta magie peut l'aider à changer son destin. Sur toute touche ou prouesse, il peut, s'il le souhaite, devenir invisible jusqu'au prochain coucher des astres, soleil ou lune. Sur une prouesse, choisis 1 des options suivantes qu'il peut aussi recevoir, s'il le souhaite.
 - Réconfort, calme et courage.
 - Bonne fortune et prospérité, jusqu'à et y compris un enfant à venir.
 - Un pas vers l'été.
-- La connaissance de la faiblesse de leur rival ou ennemi.
-- Une faveur de celui qu'ils nomment, et si l'intéressé refuse, c'est une insulte envers toi, ta magie, ton thé et tes gâteaux, tous autant qu'ils sont.
+- La connaissance de la faiblesse de son rival ou ennemi.
+- Une faveur de celui qu'il nomme, et si l'intéressé refuse, c'est une insulte envers toi, ta magie, ton thé et tes gâteaux, tous autant qu'ils sont.
 
-Sur un revers, ils choisissent 1 des options ci-dessus pour eux-mêmes, mais ils ne deviennent pas invisibles.
+Sur un revers, il choisit 1 des options ci-dessus pour lui-même, mais il ne devient pas invisible.
 
 **Quand tu te caches**, lance les dés. Sur toute touche ou prouesse, personne ne peut te trouver, même en cherchant partout, et aucun malheur ne t'atteint. Tu choisis quand émerger. Sur une touche cependant, choisis 1.
 - Quelqu'un t'emporte par accident. Demande à la MC où on t'emmène.

@@ -41,27 +41,27 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- [x] voyage avec moi depuis longtemps. On a rejoint le cirque ensemble. Je ne peux jamais les éconduire. Qui ?
-- D'habitude c'est moi qui perce les gens à jour, mais [x] m'a percé à jour. Je ne peux jamais les assaillir ni les percer à jour. Qui ?
+- [x] voyage avec moi depuis longtemps. On a rejoint le cirque ensemble. Je ne peux jamais l'éconduire. Qui ?
+- D'habitude c'est moi qui perce les gens à jour, mais [x] m'a percé à jour. Je ne peux jamais l'assaillir ni le percer à jour. Qui ?
 
 ---
 
 ## Tours de l'Égaré(e)
 
-**Quand tu perces quelqu'un à jour**, lance les dés. Sur toute touche ou prouesse, demande une courte pause dans le jeu et discute du personnage avec la MC et les autres joueurs. Essayez ensemble de le cerner en termes symboliques ou métaphoriques : pas seulement qui il est vraiment, mais ce qu'il représente, ce qu'il signifie dans le jeu. Rapporte ces intuitions avec toi dans la partie. Sur une touche, ils se rendent compte que tu les as percé à jour, et peuvent réagir en conséquence. Sur une prouesse, non. Sur un revers, demande à la MC ce qui tourne mal. Peut-être qu'ils t'ont attiré dans leur jeu.
+**Quand tu perces quelqu'un à jour**, lance les dés. Sur toute touche ou prouesse, demande une courte pause dans le jeu et discute du personnage avec la MC et les autres joueurs. Essayez ensemble de le cerner en termes symboliques ou métaphoriques : pas seulement qui il est vraiment, mais ce qu'il représente, ce qu'il signifie dans le jeu. Rapporte ces intuitions avec toi dans la partie. Sur une touche, il se rend compte que tu l'as percé à jour, et peut réagir en conséquence. Sur une prouesse, non. Sur un revers, demande à la MC ce qui tourne mal. Peut-être qu'il t'a attiré dans son jeu.
 
 **Quand tu touches une fée avec du fer froid**, lance les dés. Sur toute touche ou prouesse, choisis 1. Si la fée que tu touches est le personnage d'un autre joueur, c'est lui qui choisit, pas toi.
-- Ils te promettront tout ce que tu demandes pour être libérés du contact du fer. Que leur fais-tu promettre ?
-- Ils ont si véritablement peur de toi qu'ils abandonnent immédiatement et sincèrement leurs intérêts et leurs préoccupations, s'enfuient, et ne s'approchent plus jamais de toi.
-- Tu presses le fer contre eux cruellement et ils en meurent. Les autres fées, ne comprenant pas qu'il s'agit d'une mort véritable, les attendront peut-être un jour, mais ils ne reviendront jamais.
+- Il te promettra tout ce que tu demandes pour être libéré du contact du fer. Que lui fais-tu promettre ?
+- Il a si véritablement peur de toi qu'il abandonne immédiatement et sincèrement ses intérêts et ses préoccupations, s'enfuit, et ne s'approche plus jamais de toi.
+- Tu presses le fer contre lui cruellement et il en meurt. Les autres fées, ne comprenant pas qu'il s'agit d'une mort véritable, l'attendront peut-être un jour, mais il ne reviendra jamais.
 
-Sur une prouesse, tu peux les maintenir silencieux pendant tout cela. Sur une touche, tous ceux qui se trouvent à proximité comprennent que quelque chose ne va pas, et peuvent agir pour enquêter ou se défendre. Sur un revers, demande à la MC ce qui tourne mal. Tu as menacé une fée de mort véritable — les conséquences pourraient être terribles.
+Sur une prouesse, tu peux le maintenir silencieux pendant tout cela. Sur une touche, tous ceux qui se trouvent à proximité comprennent que quelque chose ne va pas, et peuvent agir pour enquêter ou se défendre. Sur un revers, demande à la MC ce qui tourne mal. Tu as menacé une fée de mort véritable — les conséquences pourraient être terribles.
 
 Toucher un autre mortel avec du fer n'a aucune conséquence.
 
 **Quand tu en appelles à la loi de Féerie**, lance les dés. Sur toute touche ou prouesse, la Féerie elle-même juge en ta faveur, et tu choisis 1.
-- Quoi ou qui que ce soit qui te menace, cela ou ils ne peuvent te faire de mal physique, seulement t'outrager, te choquer, te surprendre ou te consterner.
-- Quoi ou qui que ce soit qui te contraint, cela ou ils doivent accepter un don ou un tribut de ta part, puis te libérer et te laisser passer.
+- Quoi ou qui que ce soit qui te menace, cela ou il ne peut te faire de mal physique, seulement t'outrager, te choquer, te surprendre ou te consterner.
+- Quoi ou qui que ce soit qui te contraint, cela ou il doit accepter un don ou un tribut de ta part, puis te libérer et te laisser passer.
 - Quoi ou qui que ce soit qui te met en danger doit te proposer un marché, une épreuve ou un défi à relever, et ne peut agir que si tu échoues ou romps le pacte.
 
 Sur une simple touche, tu es redevable à la Féerie pour son verdict. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que la Féerie non seulement juge contre toi, mais prend ton appel pour une insulte.
