@@ -37,7 +37,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 - Si tu veux ajouter des prothèses, des aides sensorielles, des aides à la communication ou des aides à la mobilité, ne te gêne pas.
 
 **Tes liens :**
-- J'ai un jour battu [x] dans un défi. Je ne peux plus jamais trouver son ouverture. Qui ?
+- J'ai un jour battu [x] dans un défi. Je ne peux plus jamais l'amener à s'ouvrir. Qui ?
 - [x] m'a abrité en un temps de grand danger. Je ne peux jamais l'éconduire ni me cacher de lui. Qui ?
 
 ---

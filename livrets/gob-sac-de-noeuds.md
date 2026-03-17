@@ -42,7 +42,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 
 **Tes liens :**
 - [x] se retrouve constamment dans mes mauvaises grâces, et sans le mériter. Chaque session, je dois trouver une raison de le confronter, si j'en ai l'occasion. Qui ?
-- Je me suis pris d'une sympathie absolument inexplicable pour [x]. Chaque session, je dois trouver son ouverture, dans la mesure du possible. Qui ?
+- Je me suis pris d'une sympathie absolument inexplicable pour [x]. Chaque session, je dois l'amener à s'ouvrir, dans la mesure du possible. Qui ?
 
 ---
 

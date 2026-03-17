@@ -42,7 +42,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 
 **Tes liens :**
 - Je suis tombé amoureux de [x], bien que je refuse naturellement de l'admettre. Je ne peux jamais l'éconduire. Qui ?
-- J'ai surpris [x] en train d'ouvrir une porte près de laquelle il n'avait rien à faire. Je ne peux plus jamais trouver son ouverture, ni désamorcer une situation à laquelle il est mêlé. Qui ?
+- J'ai surpris [x] en train d'ouvrir une porte près de laquelle il n'avait rien à faire. Je ne peux plus jamais l'amener à s'ouvrir, ni désamorcer une situation à laquelle il est mêlé. Qui ?
 
 ---
 

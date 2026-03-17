@@ -74,7 +74,7 @@ Demande à la MC et/ou aux autres joueurs comment ils réagissent. Sur un revers
 - Tu hurles et beugle.
 - Tu craques et tu t'enfuis.
 
-Sur toute touche ou prouesse, aucun ennemi ni aucune circonstance ne peut te faire pire. Attends que ça passe et ressaisis-toi. Sur un revers, choisis 3, et certaines des autres choses se produisent aussi, tu ne sais pas lesquelles. Tu ne peux pas te remettre tout seul, tu auras besoin d'un ami pour trouver ton ouverture et t'aider à ramasser les morceaux.
+Sur toute touche ou prouesse, aucun ennemi ni aucune circonstance ne peut te faire pire. Attends que ça passe et ressaisis-toi. Sur un revers, choisis 3, et certaines des autres choses se produisent aussi, tu ne sais pas lesquelles. Tu ne peux pas te remettre tout seul, tu auras besoin d'un ami pour t'amener à t'ouvrir et t'aider à ramasser les morceaux.
 
 **Quand tu te mets à l'ouvrage**, lance les dés. Sur une prouesse, choisis 2. Sur une touche, choisis 1.
 - Peu importe la durée et la difficulté du travail, tu ne te fatigues jamais.
@@ -84,4 +84,4 @@ Sur toute touche ou prouesse, aucun ennemi ni aucune circonstance ne peut te fai
 - Ton travail est si méticuleux et si soigné que, bien qu'il sera parfait, tu ne le finiras jamais, pas même en cent ans.
 - Peu importe qui d'autre s'y met, tu travailles plus vite, mieux et plus joyeusement qu'eux.
 
-Sur un revers, choisis 1, et de plus, tu ne peux pas t'arrêter de travailler même une fois le travail fini. Pour t'arrêter, tu auras besoin d'un ami qui trouve ton ouverture.
+Sur un revers, choisis 1, et de plus, tu ne peux pas t'arrêter de travailler même une fois le travail fini. Pour t'arrêter, tu auras besoin d'un ami qui t'amène à t'ouvrir.

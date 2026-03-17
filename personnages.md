@@ -52,13 +52,13 @@ Tu ne lances pas les dés pour tes tours. Tu les annonces simplement par leur no
 
 Tes tours sont détaillés au Chapitre 5 : Principes et tours de la MC.
 
-## Demander une passe, essuyer la tempête
+## Demander conseil, essuyer la tempête
 
 Quand une situation se développe d'une manière qui ne te plaît pas, mais que tu ne veux pas ou n'as pas besoin d'interrompre la partie pour en discuter, il existe deux tours pour y faire face.
 
 Essuyer la tempête, c'est un tour pour quand une situation tourne contre toi, mais pas au point d'être intolérable. Tu encaisses et tu vois où ça mène.
 
-Demander une passe, c'est pour quand une situation tourne contre toi et que tu ne le veux pas, mais que tu ne vois pas comment la rediriger tout seul. Tu veux ou tu as besoin que les autres joueurs te soutiennent.
+Demander conseil, c'est pour quand une situation tourne contre toi et que tu ne le veux pas, mais que tu ne vois pas comment la rediriger tout seul. Tu veux ou tu as besoin que les autres joueurs te soutiennent.
 
 ## Créer un personnage
 
