@@ -25,9 +25,9 @@ Choisis tes pronoms pour l'été et pour l'hiver aussi.
 
 **Tes tours :**
 Tu peux tenter tous les tours évidents, et tu peux :
-- Briser
-- Te tapir
-- Dominer de toute ta hauteur
+- Fracasser
+- Surplomber
+- S'endurcir
 - Fouiller les restes
 
 **Ton attirail :**
@@ -47,7 +47,7 @@ Tu peux tenter tous les tours évidents, et tu peux :
 
 ## Tours du Troll
 
-**Quand tu brises quelqu'un**, lance les dés. Sur une prouesse, choisis 1 :
+**Quand tu fracasses quelqu'un**, lance les dés. Sur une prouesse, choisis 1 :
 - Tu le brises en morceaux de tes propres mains.
 - Tu le jettes de tes propres mains hors de ce monde et dans un autre.
 - Tu l'enfonces de tes propres mains dans la terre.
@@ -55,12 +55,12 @@ Tu peux tenter tous les tours évidents, et tu peux :
 
 Sur une touche, tu ne fais que le blesser, l'écraser et le consterner en profondeur. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu découvriras qu'il a, après tout, un noyau de force indestructible.
 
-**Quand tu domines quelqu'un de toute ta hauteur**, lance les dés. Sur toute touche ou prouesse, choisis 1 :
+**Quand tu surplombes quelqu'un**, lance les dés. Sur toute touche ou prouesse, choisis 1 :
 - Aucun mal ni danger ne peut l'atteindre, sauf à travers toi.
 - Aucun ami ni allié ne peut venir à son aide, sauf à travers toi.
 
 Sur une prouesse, tu le domines tellement que tu es libre d'agir sans risque de le perdre ou de le laisser sans garde. Sur une touche, tu dois garder un œil sur lui quoi que tu fasses, et tu prends −1 à tous tes lancers tant que tu le domines. Sur un revers, demande à la MC ce qui tourne mal. Elle pourra te laisser choisir 1 quand même, mais prépare-toi au pire. Peut-être que tu rates quelque chose que tu aurais dû voir.
 
-**Quand tu te tapis**, lance les dés. Sur toute touche ou prouesse, tu peux encaisser tous les coups qui te sont portés. Sur une prouesse, encaisses-en jusqu'à 3 solides avant de subir les conséquences du suivant. Sur une touche, encaisses-en jusqu'à 2. Sur un revers, tu deviens en partie de pierre, et bien que tu puisses encaisser autant de coups qu'il en vient, tu auras besoin d'un ami pour trouver ton ouverture.
+**Quand tu t'endurcis**, lance les dés. Sur toute touche ou prouesse, tu peux encaisser tous les coups qui te sont portés. Sur une prouesse, encaisses-en jusqu'à 3 solides avant de subir les conséquences du suivant. Sur une touche, encaisses-en jusqu'à 2. Sur un revers, tu deviens en partie de pierre, et bien que tu puisses encaisser autant de coups qu'il en vient, tu auras besoin d'un ami pour trouver ton ouverture.
 
 **Quand tu fouilles les restes**, lance les dés. Sur toute touche ou prouesse, tu trouves quelque chose d'intéressant. Demande à la MC ce que c'est. Sur une prouesse, c'est un trésor. Sur une touche, c'est un indice, une curiosité, ou quelque chose qui est encore parfaitement délicieux — tu ne sais pas pourquoi il n'a pas fini. Sur un revers, tu perds quelque chose qui t'appartient. Dis à la MC de décider quoi, et de te prévenir quand tu remarques que ça manque.
