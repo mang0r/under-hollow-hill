@@ -2,35 +2,33 @@
 
 ## Règles
 
-De manière générale, tu dis ce que ton personnage dit, fait, pense et projette, et la Maîtresse de Cérémonie dit où tu es et ce qui s'y passe. Quand tu veux aller au fond des choses, changer ce qui se passe, ou prendre le contrôle un instant, tu le fais en tentant un tour.
+De manière générale, tu dis ce que ton personnage dit, fait, pense et exprime, et la Maîtresse de Cérémonie dit où tu es et ce qui s'y passe. Quand tu veux aller au fond des choses, changer ce qui se passe, ou prendre le contrôle un instant, tu le fais en tentant un tour.
 
 - Tu peux tenter tous les tours évidents, ainsi que les tours de ton livret.
 - Choisis toujours un tour qui a du sens pour toi, étant donné les circonstances et tes propres objectifs et intérêts.
-- Annonce ton tour par son nom.
-- Suis la procédure du tour à la lettre. Quand tu lances les dés, ajoute ou soustrais le modificateur de ce tour dans ton livret. Un total de 10+ est une prouesse ; un total de 7–9 est une touche ; et un total de 6 ou moins est un revers.
-- Tu choisis ton tour et tu lances les dés. Le tour te dit quels sont les résultats et les conséquences.
+- Annonce ton tour par son nom (ou en le modifiant légèrement, ou en n’en gardant qu’une partie).
+- Suis la procédure du tour à la lettre. Quand tu lances les dés, ajoute ou soustrais le modificateur de ce tour marqué dans ton livret. Un total de 10+ est une prouesse ; un total de 7–9 est une touche ; et un total de 6 ou moins est un revers.
+- Quand tu as choisi ton tours et lancé les dés, ton tour te dit quels sont les résultats et les conséquences.
 - En plus des conséquences directes listées dans tes tours, il y a des conséquences à court terme que la Maîtresse de Cérémonie peut ajouter à ton tour, à sa discrétion, et des conséquences à long terme que ton tour peut invoquer : faire un pas vers l'été ou l'hiver, la violence, les insultes, les faveurs et l'amour.
 
 ## Tenter ses tours
 
-Au lieu de se jouer sur un terrain, un plateau ou avec des mains de cartes, Under Hollow Hills se joue dans la conversation que tu as avec les autres joueurs et la MC.
+Under Hollow Hills se joue dans la conversation que tu as avec les autres joueurs et la MC.
 
-De manière générale : tu dis librement ce que ton personnage dit, fait, pense et projette. Tu réponds aux questions de quiconque au nom de ton personnage. Tu poses librement des questions sur tout ce qui pique ta curiosité.
+De manière générale, tu dis librement ce que ton personnage dit, fait, pense et transmet. Tu réponds aux questions que l’on te pose, au nom de ton personnage. Tu poses librement des questions sur tout ce qui pique ta curiosité.
 
-La Maîtresse de Cérémonie dit où tu es, qui d'autre est là, et ce qu'ils font. Elle répond à tes questions sur l'endroit et sur ce qui se passe.
+La Maîtresse de Cérémonie dit où tu es, et avec qui, et ce qu'ils font. Elle répond à tes questions sur l'endroit et sur ce qui se passe.
 
 Vous prenez la parole à tour de rôle de manière informelle, comme dans n'importe quelle conversation : parfois en s'interrompant, parfois en faisant le tour du cercle, parfois en parlant les uns sur les autres avant de revenir en arrière pour rectifier, toujours en essayant d'être attentifs les uns aux autres, mais parfois emportés par votre propre enthousiasme.
 
 Tes tours introduisent des limites et de la structure dans la conversation informelle du jeu. Ce sont des règles que tu peux invoquer et suivre quand tu le souhaites, et qui te permettent de changer le cours de la conversation.
 
-Le vocabulaire :
+Attends-toi à ce que la Maîtresse de Cérémonie te pose souvent ce genre de questions :
 - Quel est ton meilleur tour, ici ?
 - Comment tu vas jouer ça ?
 - Tu joues la sécurité ou tu te lances ?
 - Comment tu veux les jouer ?
 - Tu parles, ou tu tentes un tour ?
-
-Attends-toi à ce que la Maîtresse de Cérémonie te pose souvent ce genre de questions.
 
 Il y a deux manières de concevoir tes tours, aussi vraies l'une que l'autre :
 
@@ -38,19 +36,19 @@ Quand tu veux élargir la conversation, changer sa direction ou son sujet, ou en
 
 Quand tu veux agir pour comprendre ce qui se passe, réagir avec force, peser sur les événements, découvrir ce que quelqu'un d'autre pense ou prépare, changer ce qu'il fait, ou prendre le contrôle d'une situation, tu le fais en tentant un tour.
 
-Tu peux tenter les tours évidents et les tours de ton livret. Chaque livret a ses quatre tours uniques. En général, tu ne peux pas tenter les tours d'un autre livret, seulement les tiens.
+Tu peux tenter les tours évidents et les tours de ton livret. Chaque livret proposé quatre tours uniques. En général, tu ne peux pas tenter les tours d'un autre livret, seulement les tiens.
 
-Choisis toujours un tour qui a du sens pour toi, étant donné les circonstances et tes propres objectifs et intérêts. Parfois ce sera évident, parfois ce sera tiré par les cheveux, mais tant que ça a du sens pour toi, tout le monde devrait jouer le jeu. On pourra te demander en quoi ton tour a du sens, et tu devrais répondre du mieux que tu peux, mais en fin de compte tu n'as pas besoin de le justifier ni de convaincre.
+Choisis toujours un tour qui a du sens pour toi, étant donné les circonstances et tes propres objectifs et intérêts. Parfois ce sera évident, parfois ce sera tiré par les cheveux, mais tant que ça a du sens pour toi, tout le monde devrait jouer le jeu. On pourra te demander en quoi ton tour a du sens, et tu devrais répondre du mieux que tu peux, mais en fin de compte tu n'as pas besoin de le justifier ni de convaincre qui que ce soit.
 
-Pour tenter un tour, annonce-le par son nom et prends deux dés. Suis la procédure du tour à la lettre. Elle te demandera de lancer les dés, de prendre des décisions, et/ou de demander à la Maîtresse de Cérémonie ou à un autre joueur de prendre des décisions aussi. Tout le monde peut suivre avec toi, ou tu peux dérouler le tour tout seul.
+Pour tenter un tour, annonce-le et prends deux dés. Suis la procédure du tour, elle te demandera de lancer les dés, de prendre des décisions, et/ou de demander à la Maîtresse de Cérémonie ou à un autre joueur de prendre des décisions aussi. Tout le monde peut suivre avec toi, ou tu peux dérouler le tour tout seul.
 
-Additionne tes deux dés, puis ajoute ou soustrais le modificateur de ce tour dans ton livret. Le résultat du tour dépend toujours de ton total. Un total de 10 ou plus te donne une prouesse : le meilleur résultat possible ou les meilleurs choix possibles. Un total de 7 à 9 te donne une touche : un bon résultat ou de bons choix. Un total de 6 ou moins est un revers. Le tour peut te dire précisément ce qui se passe sur un revers, ou simplement te dire de demander à la Maîtresse de Cérémonie ce qui tourne mal.
+Additionne tes deux dés, puis ajoute ou soustrais le modificateur de ce tour dans ton livret. Le résultat du tour dépend toujours de ton total. Un total de 10 ou plus te donne une prouesse : le meilleur résultat possible ou les meilleurs choix possibles. Un total de 7 à 9 te donne une touche : un bon résultat ou de bons choix. Un total de 6 ou moins est un revers. Le tour peut te dire précisément ce qui se passe sur un revers, ou simplement te laisser demander à la Maîtresse de Cérémonie ce qui tourne mal.
 
 MC, pense à amener quelques copies de la feuille des Tours Évidents à la table. Mets-les à disposition pour que tout le monde puisse s'y référer.
 
 ## Été et hiver (etc.)
 
-Au fil de tes voyages et de tes spectacles avec le cirque, fais des pas de l'été vers l'hiver et inversement. Change à la fois ton imagerie et tes tours pour refléter les bons et les mauvais moments que tu as vécus.
+Au fil de tes voyages et de tes spectacles avec le cirque, tu feras des pas de l'été vers l'hiver et inversement. À chaque fois, changes ton imagerie et tes tours pour refléter les bons et les mauvais moments que tu as vécus, et la manière dont ils t’affectent à l’instant.
 
 Pour les fées :
 Quand tu fais un pas vers l'été, efface une marque dans la colonne hiver et coche la même ligne dans la colonne été.
@@ -60,10 +58,10 @@ Chaque fois que tu fais un pas vers l'été ou vers l'hiver, retire 1 au modific
 
 ## Les insultes
 
-Donner et prendre offense est un passe-temps majeur en Féerie.
+Offenser et prendre offense sont les passe-temps majeurs en Féerie.
 
 Pour les fées :
-Quand quelqu'un t'insulte, la loi de Féerie et ta nature féerique t'autorisent à répondre. Il est considéré comme ton droit incontestable de peser l'insulte et de répondre en juste mesure ; toi seul peux choisir la forme que prendra ta réponse et jusqu'où elle ira. Les autres fées peuvent jaser, mais aucune fée ne se dresserait devant toi pour affirmer que tu as dépassé les bornes.
+Quand quelqu'un t'insulte, la loi de Féerie et ta nature féerique t'autorisent à y répondre. Il est considéré comme ton droit incontestable de peser l'insulte et de répondre en juste mesure ; toi seul peux choisir la forme que ta réponse prendra et jusqu'où elle ira. Les autres fées peuvent jaser, mais aucune fée ne se dresserait devant toi pour affirmer que tu as dépassé les bornes.
 
 Pour les êtres humains :
 Quand quelqu'un t'insulte, la loi de Féerie t'autorise à répondre. Il est considéré comme ton droit incontestable de peser l'insulte et de répondre en juste mesure ; toi seul peux choisir la forme que prendra ta réponse et jusqu'où elle ira. La clémence est un trait humain, pas un trait féerique ; si tu es modéré dans ta réponse, tu feras jaser les fées.
@@ -102,16 +100,16 @@ La mort féerique :
 - S'ils ne célèbrent pas du tout le changement d'effectif, ou si tu estimes qu'ils ont mal choisi et que tu veux les défier, tu peux choisir de rester mort ou de revenir, à ta guise. Si tu reviens d'entre les morts sans y avoir été invité, cependant, il est certain que soit ils t'ont insulté, soit tu les as insultés, soit les deux.
 
 La mort véritable :
-Il n'y a que quelques choses qui puissent véritablement tuer une fée. Le fer froid en est une ; il y en a d'autres. Si tu subis une mort véritable, tu ne peux pas revenir, même si le cirque t'y invitait à l'unanimité.
+Il n'y a que peu de choses qui puissent véritablement tuer une fée. Le fer froid en est une ; il y en a d'autres. Si tu subis une mort véritable, tu ne peux pas revenir, même si le cirque t'y invitait à l'unanimité.
 
 Pour les êtres humains :
-Pour les êtres humains en Féerie, comme toi, la violence n'est pas un jeu. Tu peux encaisser un assaut verbal qui tuerait n'importe quelle fée sur le coup, mais une épée qui te transperce, aussi enjouée soit-elle, mettra fin à ta vie pour toujours.
+Pour les êtres humains en Féerie ou ailleurs, la violence n'est pas un jeu. Tu peux encaisser un assaut verbal qui tuerait n'importe quelle fée sur le coup, mais une épée qui te transperce, aussi enjouée soit-elle, mettra fin à ta vie pour toujours.
 
 La plupart des fées ne te tueront pas exprès — ça ne leur viendrait pas à l'esprit — mais elles pourraient te tuer à tout moment par pur caprice du hasard. Par conséquent, tu dois jouer la violence de deux manières différentes.
 
 Quand tu es verbalement assailli, choqué, outragé ou consterné, choisis 1 :
-- Tu te retires avec autant de fureur et de dignité que ta nature humaine le permet.
-- Tu riposes, avec cette passion humaine impulsive qui t'est propre.
+- Tu te retires avec autant de fureur et de dignité que ta nature humaine ne te le permette.
+- Tu riposes, avec une passion humaine et impulsive qui t'est propre.
 - Tu te considères offensé, et tu couveras ta rancune humaine passagère aussi longtemps que tu en seras capable.
 
 Quand tu es physiquement assailli ou blessé, lance un seul dé :
@@ -119,12 +117,12 @@ Quand tu es physiquement assailli ou blessé, lance un seul dé :
 - Sur un 2 ou 3, tu es dangereusement blessé, et tu dois trouver de l'aide compétente rapidement ou la blessure te tuera. (N'importe quel débrouillard du cirque saura quoi faire.)
 - Sur un 1, tu es mortellement blessé. Meurs maintenant ou meurs dans quelques minutes douloureuses.
 
-Par curiosité, et non par conséquence : quand tu meurs, l'une de deux choses se produira, entièrement hors de ton contrôle. La première possibilité est que tu mourras simplement et plainement. La seconde est que tu mourras, mais pas simplement : quelque chose de ta nature restera en Féerie pour toujours, pas vivant mais animé, la chose véritablement gardée de quelque fée.
+Par curiosité, et non par conséquence : quand tu meurs, l'une de deux choses se produira, entièrement hors de ton contrôle. La première possibilité est que tu mourras simplement et pleinement. La seconde est que tu mourras, mais pas simplement : quelque chose de ta nature restera en Féerie pour toujours, pas vivant mais néanmoins animé, une  chose véritablement gardée une fée.
 
 ## L'amour
 
 Pour les fées :
-Quelques tours de livret disent que tu charmes quelqu'un ou, peut-être, que quelqu'un tombe amoureux de toi. Considère qu'il s'agit de l'amour fugace du Merveilleux féerique, intense mais pas profond.
+Quelques tours de livret disent que tu charmes quelqu'un ou, peut-être, que quelqu'un tombe amoureux de toi. Considère qu'il s'agit de l'amour fugace du Merveilleux féerique, aussi intense que dénué de profondeur.
 
 Le véritable amour doit être donné librement. Il doit être tenu sans crispation, et il peut être repris aussi librement qu'il a été donné.
 

@@ -13,7 +13,7 @@ Ce projet est un aide de jeu à destination de ma table. Il ne se substitue pas 
 - 🟢 [Introduction](introduction.md)
 - 🟢 [Personnages](personnages.md)
 - 🔴 [Sessions et spectacles](sessions-et-spectacles.md)
-- 🔴 [Tours et conséquences](tours-et-consequences.md)
+- 🟢 [Tours et conséquences](tours-et-consequences.md)
 - 🟢 [Tours évidents](tours-evidents.md)
 - 🔴 [Miscellanées](miscellanees.md)
 
