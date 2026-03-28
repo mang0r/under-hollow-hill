@@ -2,14 +2,14 @@
 
 ## Règles
 
-- Jouez en sessions, chaque session étant l'occasion pour le cirque de se produire.
+- Jouez en sessions, chaque session étant une occasion pour le cirque de se produire.
 - Commencez la session en discutant brièvement avec la MC de la place de ce spectacle dans la tournée du cirque, et de la façon dont la tournée se passe.
 - C'est le travail de la MC de vous dire où le cirque arrive, qui se trouve là, et ce qui s'y passe. Vous pouvez l'aider en posant des questions.
-- Avant de planifier votre spectacle, prenez le pouls des lieux. Découvrez ce que le public attend de vous, et ce que vous attendez de lui.
-- Quand vous êtes prêts, planifiez votre spectacle. Donnez un rôle à chaque personnage. Incluez des artistes PNJ si vous le souhaitez.
-- Donnez votre spectacle, en usant de vos tours évidents et de vos tours de livret.
-- Pendant le spectacle, vous avez le pouvoir de changer les choses ici. Usez de votre pouvoir pour rendre votre spectacle marquant et porteur de conséquences.
-- Après le spectacle, réglez les affaires en suspens.
+- Avant de planifier votre spectacle, investiguez les lieux. Découvrez ce que le public attend de vous, et ce que vous attendez de lui.
+- Quand vous êtes prêts, planifiez votre spectacle. Donnez un rôle à chaque personnage. Incluez des artistes PNJs si vous le souhaitez.
+- Donnez votre spectacle, avec l'aide de vos tours évidents et de vos tours de livret.
+- Pendant le spectacle, vous avez le pouvoir de changer les choses. Usez de votre pouvoir pour rendre votre spectacle marquant et porteur de conséquences.
+- Après le spectacle, réglez vos affaires qui doivent l'être.
 - Terminez la session en choisissant de faire un pas vers l'hiver ou vers l'été, et en disant à la MC où vous irez vous produire ensuite.
 
 ## Sessions et spectacles
@@ -20,7 +20,7 @@ Chaque session de jeu est l'occasion pour le cirque de se produire. Un nouveau l
 
 1. Commencer la session.
 2. Arriver.
-3. Avant de planifier le spectacle, prendre le pouls des lieux.
+3. Avant de planifier le spectacle, investiguer des lieux.
 4. Planifier le spectacle.
 5. Donner le spectacle.
 6. Après le spectacle, régler les affaires en suspens.
@@ -33,15 +33,15 @@ Notez que si ce texte suppose que vous jouerez exactement une session à chaque 
   - Quel était votre dernier spectacle ? Comment le décririez-vous ?
   - Quel spectacle prévoyez-vous après celui-ci ?
 
-  Mettez-vous d'accord en tant que cirque et répondez aux questions de la MC comme bon vous semble. Si vous ne connaissez pas déjà les réponses, inventez-les ensemble.
+  Mettez-vous d'accord en tant que cirque et répondez aux questions de la MC comme bon vous semble. Si vous ne connaissez pas déjà les réponses, imaginez-les ensemble.
 
-- **Ensuite, arriver :** C'est le travail de la MC de vous dire où vous êtes maintenant, qui d'autre est là, et ce qui se passe. Vous pouvez l'aider en posant des questions à la MC, en flairant le vent, et en jaugeant les gens que vous rencontrez.
+- **Ensuite, arriver :** C'est le travail de la MC de vous dire où vous êtes maintenant, qui d'autre est là, et ce qui se passe. Vous pouvez l'aider en posant des questions à la MC, en questionnant les lieux, et en jaugeant les gens que vous rencontrez.
 
 - **Troisièmement, avant de planifier le spectacle :** Avant de passer directement à la planification et à la représentation, vous voudrez peut-être...
   - Découvrir ce que votre public attend.
-  - Faire savoir à votre public ce qu'il peut attendre.
+  - Faire savoir à votre public à quoi il peut s'attendre.
   - Attiser l'enthousiasme pour votre spectacle.
-  - Placer des compères dans le public.
+  - Placer des complices dans le public.
   - Inspecter l'endroit où vous êtes censés vous produire.
   - Aménager l'emplacement qui vous convient pour jouer.
   - Rencontrer votre hôte et établir les termes de votre représentation.
